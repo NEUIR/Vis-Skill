@@ -1,0 +1,1 @@
+../../../alfworld-qwen3.5-9b/mechanism/component-patching/analyze_component_patch.py

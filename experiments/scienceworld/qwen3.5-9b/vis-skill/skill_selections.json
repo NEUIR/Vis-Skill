@@ -1,0 +1,4011 @@
+{
+  "0": {
+    "task_name": "task-1-boil",
+    "variation_idx": 21,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-device-activator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator",
+      "scienceworld-substance-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "1": {
+    "task_name": "task-1-boil",
+    "variation_idx": 22,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-device-activator",
+      "scienceworld-process-monitor"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "2": {
+    "task_name": "task-1-boil",
+    "variation_idx": 23,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-device-activator",
+      "scienceworld-process-monitor"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "3": {
+    "task_name": "task-1-boil",
+    "variation_idx": 24,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-process-monitor",
+      "scienceworld-device-activator",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "4": {
+    "task_name": "task-1-boil",
+    "variation_idx": 25,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-device-activator",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-process-monitor"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      10,
+      9
+    ]
+  },
+  "5": {
+    "task_name": "task-1-boil",
+    "variation_idx": 26,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-device-activator",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-process-monitor"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "6": {
+    "task_name": "task-1-boil",
+    "variation_idx": 27,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-device-activator",
+      "scienceworld-process-monitor"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "7": {
+    "task_name": "task-1-boil",
+    "variation_idx": 28,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-device-activator",
+      "scienceworld-process-monitor"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "8": {
+    "task_name": "task-1-boil",
+    "variation_idx": 29,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-device-activator",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "9": {
+    "task_name": "task-1-change-the-state-of-matter-of",
+    "variation_idx": 21,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-cooler",
+      "scienceworld-process-monitor",
+      "scienceworld-container-inspector",
+      "task-completion-focus"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "10": {
+    "task_name": "task-1-change-the-state-of-matter-of",
+    "variation_idx": 22,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-cooler",
+      "scienceworld-device-activator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "11": {
+    "task_name": "task-1-change-the-state-of-matter-of",
+    "variation_idx": 23,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-device-activator",
+      "scienceworld-process-monitor"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      9,
+      9
+    ]
+  },
+  "12": {
+    "task_name": "task-1-change-the-state-of-matter-of",
+    "variation_idx": 24,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-cooler",
+      "scienceworld-process-monitor",
+      "scienceworld-container-inspector",
+      "scienceworld-device-activator"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      9,
+      9
+    ]
+  },
+  "13": {
+    "task_name": "task-1-change-the-state-of-matter-of",
+    "variation_idx": 25,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-cooler",
+      "scienceworld-process-monitor",
+      "scienceworld-container-inspector",
+      "scienceworld-substance-preparator"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      9,
+      9
+    ]
+  },
+  "14": {
+    "task_name": "task-1-change-the-state-of-matter-of",
+    "variation_idx": 26,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-cooler",
+      "scienceworld-device-activator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "15": {
+    "task_name": "task-1-change-the-state-of-matter-of",
+    "variation_idx": 27,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-cooler",
+      "scienceworld-device-activator",
+      "scienceworld-process-monitor",
+      "scienceworld-container-inspector"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      10,
+      10
+    ]
+  },
+  "16": {
+    "task_name": "task-1-change-the-state-of-matter-of",
+    "variation_idx": 28,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-cooler",
+      "scienceworld-device-activator",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "17": {
+    "task_name": "task-1-change-the-state-of-matter-of",
+    "variation_idx": 29,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-cooler",
+      "scienceworld-process-monitor",
+      "scienceworld-container-inspector",
+      "scienceworld-device-activator"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "18": {
+    "task_name": "task-1-freeze",
+    "variation_idx": 21,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-substance-cooler",
+      "scienceworld-substance-fetcher",
+      "scienceworld-substance-preparator",
+      "controlled-waiting",
+      "scienceworld-container-transfer"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "19": {
+    "task_name": "task-1-freeze",
+    "variation_idx": 22,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-substance-cooler",
+      "controlled-waiting",
+      "scienceworld-process-monitor",
+      "scienceworld-container-inspector",
+      "scienceworld-substance-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "20": {
+    "task_name": "task-1-freeze",
+    "variation_idx": 23,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-substance-cooler",
+      "task-completion-focus",
+      "scienceworld-substance-fetcher",
+      "scienceworld-object-focuser",
+      "scienceworld-task-focuser"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      8,
+      8
+    ]
+  },
+  "21": {
+    "task_name": "task-1-freeze",
+    "variation_idx": 24,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-substance-cooler",
+      "scienceworld-process-monitor",
+      "scienceworld-container-inspector",
+      "controlled-waiting",
+      "scienceworld-substance-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "22": {
+    "task_name": "task-1-freeze",
+    "variation_idx": 25,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-substance-cooler",
+      "scienceworld-process-monitor",
+      "scienceworld-container-inspector",
+      "scienceworld-substance-fetcher",
+      "task-completion-focus"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "23": {
+    "task_name": "task-1-freeze",
+    "variation_idx": 26,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-substance-cooler",
+      "scienceworld-container-inspector",
+      "scienceworld-process-monitor",
+      "controlled-waiting",
+      "scienceworld-substance-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "24": {
+    "task_name": "task-1-freeze",
+    "variation_idx": 27,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-substance-cooler",
+      "scienceworld-substance-fetcher",
+      "task-completion-focus",
+      "scienceworld-object-focuser",
+      "scienceworld-process-monitor"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "25": {
+    "task_name": "task-1-freeze",
+    "variation_idx": 28,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-substance-cooler",
+      "scienceworld-substance-fetcher",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "controlled-waiting"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "26": {
+    "task_name": "task-1-freeze",
+    "variation_idx": 29,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-substance-cooler",
+      "scienceworld-container-inspector",
+      "scienceworld-process-monitor",
+      "controlled-waiting",
+      "scienceworld-temperature-measurer"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "27": {
+    "task_name": "task-1-melt",
+    "variation_idx": 21,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-device-activator",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "28": {
+    "task_name": "task-1-melt",
+    "variation_idx": 22,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-device-activator",
+      "scienceworld-process-monitor"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "29": {
+    "task_name": "task-1-melt",
+    "variation_idx": 23,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-device-activator",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-process-monitor"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      10,
+      10
+    ]
+  },
+  "30": {
+    "task_name": "task-1-melt",
+    "variation_idx": 24,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-fetcher",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-device-activator"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "31": {
+    "task_name": "task-1-melt",
+    "variation_idx": 25,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-device-activator",
+      "scienceworld-process-monitor"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "32": {
+    "task_name": "task-1-melt",
+    "variation_idx": 26,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-device-activator",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-process-monitor"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "33": {
+    "task_name": "task-1-melt",
+    "variation_idx": 27,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-device-activator",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "34": {
+    "task_name": "task-1-melt",
+    "variation_idx": 28,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-device-activator",
+      "scienceworld-process-monitor"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "35": {
+    "task_name": "task-1-melt",
+    "variation_idx": 29,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-fetcher",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-device-activator"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "36": {
+    "task_name": "task-10-measure-melting-point-(known-substance)",
+    "variation_idx": 327,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-fetcher",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "37": {
+    "task_name": "task-10-measure-melting-point-(known-substance)",
+    "variation_idx": 328,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-measurement-taker",
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-device-activator",
+      "scienceworld-substance-preparator"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "38": {
+    "task_name": "task-10-measure-melting-point-(known-substance)",
+    "variation_idx": 329,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-measurement-taker",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "39": {
+    "task_name": "task-10-measure-melting-point-(known-substance)",
+    "variation_idx": 330,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-device-activator"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "40": {
+    "task_name": "task-10-measure-melting-point-(known-substance)",
+    "variation_idx": 331,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-measurement-taker",
+      "scienceworld-device-activator",
+      "scienceworld-tool-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "41": {
+    "task_name": "task-10-measure-melting-point-(known-substance)",
+    "variation_idx": 332,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-measurement-taker",
+      "scienceworld-process-monitor",
+      "scienceworld-device-activator"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "42": {
+    "task_name": "task-10-measure-melting-point-(known-substance)",
+    "variation_idx": 333,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-measurement-taker",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "43": {
+    "task_name": "task-10-measure-melting-point-(known-substance)",
+    "variation_idx": 334,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-device-activator"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "44": {
+    "task_name": "task-10-measure-melting-point-(known-substance)",
+    "variation_idx": 335,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-fetcher",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "45": {
+    "task_name": "task-10-measure-melting-point-(known-substance)",
+    "variation_idx": 336,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-preparator",
+      "scienceworld-substance-fetcher",
+      "scienceworld-device-activator"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      9,
+      9
+    ]
+  },
+  "46": {
+    "task_name": "task-10-use-thermometer",
+    "variation_idx": 405,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-measurement-taker",
+      "scienceworld-tool-user",
+      "scienceworld-tool-fetcher",
+      "scienceworld-item-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      8,
+      8,
+      7
+    ]
+  },
+  "47": {
+    "task_name": "task-10-use-thermometer",
+    "variation_idx": 406,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-measurement-taker",
+      "scienceworld-tool-user",
+      "scienceworld-tool-fetcher",
+      "scienceworld-item-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "48": {
+    "task_name": "task-10-use-thermometer",
+    "variation_idx": 407,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-measurement-taker",
+      "scienceworld-tool-fetcher",
+      "scienceworld-tool-user",
+      "scienceworld-item-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "49": {
+    "task_name": "task-10-use-thermometer",
+    "variation_idx": 408,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-measurement-taker",
+      "scienceworld-tool-user",
+      "scienceworld-tool-fetcher",
+      "scienceworld-item-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      8,
+      8
+    ]
+  },
+  "50": {
+    "task_name": "task-10-use-thermometer",
+    "variation_idx": 409,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-measurement-taker",
+      "scienceworld-tool-user",
+      "scienceworld-tool-fetcher",
+      "scienceworld-item-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "51": {
+    "task_name": "task-10-use-thermometer",
+    "variation_idx": 410,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-measurement-taker",
+      "scienceworld-tool-user",
+      "scienceworld-tool-fetcher",
+      "scienceworld-item-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "52": {
+    "task_name": "task-10-use-thermometer",
+    "variation_idx": 411,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-measurement-taker",
+      "scienceworld-tool-user",
+      "scienceworld-tool-fetcher",
+      "scienceworld-item-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "53": {
+    "task_name": "task-10-use-thermometer",
+    "variation_idx": 412,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-measurement-taker",
+      "scienceworld-tool-user",
+      "scienceworld-tool-fetcher",
+      "scienceworld-item-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      8
+    ]
+  },
+  "54": {
+    "task_name": "task-10-use-thermometer",
+    "variation_idx": 413,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-measurement-taker",
+      "scienceworld-tool-user",
+      "scienceworld-tool-fetcher",
+      "scienceworld-item-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "55": {
+    "task_name": "task-10-use-thermometer",
+    "variation_idx": 414,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-measurement-taker",
+      "scienceworld-tool-user",
+      "scienceworld-tool-fetcher",
+      "scienceworld-item-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      8,
+      8
+    ]
+  },
+  "56": {
+    "task_name": "task-2-power-component",
+    "variation_idx": 15,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-conductivity-tester",
+      "scienceworld-object-selector",
+      "scienceworld-task-parser"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      8,
+      7
+    ]
+  },
+  "57": {
+    "task_name": "task-2-power-component",
+    "variation_idx": 16,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-conductivity-tester",
+      "scienceworld-object-selector",
+      "scienceworld-task-focuser"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      8,
+      8,
+      7
+    ]
+  },
+  "58": {
+    "task_name": "task-2-power-component",
+    "variation_idx": 17,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-conductivity-tester",
+      "scienceworld-object-selector",
+      "scienceworld-task-focuser"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      8,
+      8,
+      7
+    ]
+  },
+  "59": {
+    "task_name": "task-2-power-component",
+    "variation_idx": 18,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-conductivity-tester",
+      "scienceworld-object-selector",
+      "scienceworld-task-parser"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      8,
+      8,
+      7
+    ]
+  },
+  "60": {
+    "task_name": "task-2-power-component",
+    "variation_idx": 19,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-conductivity-tester",
+      "scienceworld-object-selector",
+      "scienceworld-task-parser"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      8,
+      8,
+      7
+    ]
+  },
+  "61": {
+    "task_name": "task-2-power-component-(renewable-vs-nonrenewable-energy)",
+    "variation_idx": 15,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-object-selector",
+      "scienceworld-conductivity-tester",
+      "scienceworld-task-focuser"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      8,
+      8
+    ]
+  },
+  "62": {
+    "task_name": "task-2-power-component-(renewable-vs-nonrenewable-energy)",
+    "variation_idx": 16,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-object-selector",
+      "scienceworld-task-parser",
+      "scienceworld-task-interpreter"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      8,
+      8
+    ]
+  },
+  "63": {
+    "task_name": "task-2-power-component-(renewable-vs-nonrenewable-energy)",
+    "variation_idx": 17,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-conductivity-tester",
+      "scienceworld-object-selector",
+      "scienceworld-task-parser"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      8
+    ]
+  },
+  "64": {
+    "task_name": "task-2-power-component-(renewable-vs-nonrenewable-energy)",
+    "variation_idx": 18,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-conductivity-tester",
+      "scienceworld-object-selector",
+      "scienceworld-environment-scanner"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      8,
+      8,
+      7
+    ]
+  },
+  "65": {
+    "task_name": "task-2-power-component-(renewable-vs-nonrenewable-energy)",
+    "variation_idx": 19,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-conductivity-tester",
+      "scienceworld-object-selector",
+      "scienceworld-task-parser"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      8,
+      8,
+      7
+    ]
+  },
+  "66": {
+    "task_name": "task-2a-test-conductivity",
+    "variation_idx": 675,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-material-classifier",
+      "scienceworld-result-archiver"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      8,
+      8
+    ]
+  },
+  "67": {
+    "task_name": "task-2a-test-conductivity",
+    "variation_idx": 676,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-material-classifier",
+      "scienceworld-result-archiver"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      8,
+      7
+    ]
+  },
+  "68": {
+    "task_name": "task-2a-test-conductivity",
+    "variation_idx": 677,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-material-classifier",
+      "scienceworld-result-archiver"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      8,
+      8
+    ]
+  },
+  "69": {
+    "task_name": "task-2a-test-conductivity",
+    "variation_idx": 678,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-result-archiver",
+      "scienceworld-object-placer"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "70": {
+    "task_name": "task-2a-test-conductivity",
+    "variation_idx": 679,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-object-classifier",
+      "scienceworld-result-archiver"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "71": {
+    "task_name": "task-2a-test-conductivity",
+    "variation_idx": 680,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-result-archiver",
+      "scienceworld-object-classifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "72": {
+    "task_name": "task-2a-test-conductivity",
+    "variation_idx": 681,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-result-archiver",
+      "scienceworld-object-classifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "73": {
+    "task_name": "task-2a-test-conductivity",
+    "variation_idx": 682,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-material-classifier",
+      "scienceworld-result-archiver"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      9,
+      9
+    ]
+  },
+  "74": {
+    "task_name": "task-2a-test-conductivity",
+    "variation_idx": 683,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-result-archiver",
+      "scienceworld-object-placer"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "75": {
+    "task_name": "task-2a-test-conductivity",
+    "variation_idx": 684,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-result-archiver",
+      "scienceworld-material-classifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      8,
+      8
+    ]
+  },
+  "76": {
+    "task_name": "task-2a-test-conductivity-of-unknown-substances",
+    "variation_idx": 450,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-result-archiver",
+      "scienceworld-object-classifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "77": {
+    "task_name": "task-2a-test-conductivity-of-unknown-substances",
+    "variation_idx": 451,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-result-archiver",
+      "scienceworld-object-classifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "78": {
+    "task_name": "task-2a-test-conductivity-of-unknown-substances",
+    "variation_idx": 452,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-result-archiver",
+      "scienceworld-object-placer"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "79": {
+    "task_name": "task-2a-test-conductivity-of-unknown-substances",
+    "variation_idx": 453,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-result-archiver",
+      "scienceworld-object-classifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "80": {
+    "task_name": "task-2a-test-conductivity-of-unknown-substances",
+    "variation_idx": 454,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-result-archiver",
+      "scienceworld-object-classifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "81": {
+    "task_name": "task-2a-test-conductivity-of-unknown-substances",
+    "variation_idx": 455,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-material-classifier",
+      "scienceworld-object-classifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      8,
+      8
+    ]
+  },
+  "82": {
+    "task_name": "task-2a-test-conductivity-of-unknown-substances",
+    "variation_idx": 456,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-material-classifier",
+      "scienceworld-result-archiver"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      8,
+      8
+    ]
+  },
+  "83": {
+    "task_name": "task-2a-test-conductivity-of-unknown-substances",
+    "variation_idx": 457,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-result-archiver",
+      "scienceworld-object-classifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      8,
+      8
+    ]
+  },
+  "84": {
+    "task_name": "task-2a-test-conductivity-of-unknown-substances",
+    "variation_idx": 458,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-result-archiver",
+      "scienceworld-object-classifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "85": {
+    "task_name": "task-2a-test-conductivity-of-unknown-substances",
+    "variation_idx": 459,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-material-classifier",
+      "scienceworld-result-archiver"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      8,
+      8
+    ]
+  },
+  "86": {
+    "task_name": "task-3-find-animal",
+    "variation_idx": 225,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-locator",
+      "scienceworld-target-locator",
+      "scienceworld-task-interpreter"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "87": {
+    "task_name": "task-3-find-animal",
+    "variation_idx": 226,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-target-locator",
+      "scienceworld-object-locator"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "88": {
+    "task_name": "task-3-find-animal",
+    "variation_idx": 227,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-locator",
+      "scienceworld-target-locator",
+      "scienceworld-target-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "89": {
+    "task_name": "task-3-find-animal",
+    "variation_idx": 228,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-locator",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "90": {
+    "task_name": "task-3-find-animal",
+    "variation_idx": 229,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-locator",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "91": {
+    "task_name": "task-3-find-animal",
+    "variation_idx": 230,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-locator",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "92": {
+    "task_name": "task-3-find-animal",
+    "variation_idx": 231,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-locator",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "93": {
+    "task_name": "task-3-find-animal",
+    "variation_idx": 232,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-locator",
+      "scienceworld-target-locator",
+      "scienceworld-task-interpreter"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "94": {
+    "task_name": "task-3-find-animal",
+    "variation_idx": 233,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-locator",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "95": {
+    "task_name": "task-3-find-animal",
+    "variation_idx": 234,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-locator",
+      "scienceworld-target-locator"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "96": {
+    "task_name": "task-3-find-living-thing",
+    "variation_idx": 225,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-animal-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "97": {
+    "task_name": "task-3-find-living-thing",
+    "variation_idx": 226,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-animal-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "98": {
+    "task_name": "task-3-find-living-thing",
+    "variation_idx": 227,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "task-completion-focus",
+      "scienceworld-object-focuser",
+      "scienceworld-object-locator"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "99": {
+    "task_name": "task-3-find-living-thing",
+    "variation_idx": 228,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-animal-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      8
+    ]
+  },
+  "100": {
+    "task_name": "task-3-find-living-thing",
+    "variation_idx": 229,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-animal-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      9,
+      9
+    ]
+  },
+  "101": {
+    "task_name": "task-3-find-living-thing",
+    "variation_idx": 230,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-object-locator"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      8,
+      8
+    ]
+  },
+  "102": {
+    "task_name": "task-3-find-living-thing",
+    "variation_idx": 231,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-animal-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "103": {
+    "task_name": "task-3-find-living-thing",
+    "variation_idx": 232,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-environment-scanner"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      8
+    ]
+  },
+  "104": {
+    "task_name": "task-3-find-living-thing",
+    "variation_idx": 233,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-animal-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      8
+    ]
+  },
+  "105": {
+    "task_name": "task-3-find-living-thing",
+    "variation_idx": 234,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-animal-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "106": {
+    "task_name": "task-3-find-non-living-thing",
+    "variation_idx": 225,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-object-selector",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-room-explorer"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "107": {
+    "task_name": "task-3-find-non-living-thing",
+    "variation_idx": 226,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-object-selector",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-environment-scanner"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "108": {
+    "task_name": "task-3-find-non-living-thing",
+    "variation_idx": 227,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-object-selector",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-environment-scanner"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "109": {
+    "task_name": "task-3-find-non-living-thing",
+    "variation_idx": 228,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-object-selector",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "scienceworld-room-scanner",
+      "scienceworld-environment-scanner"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      8,
+      8
+    ]
+  },
+  "110": {
+    "task_name": "task-3-find-non-living-thing",
+    "variation_idx": 229,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-object-selector",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-room-scanner"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "111": {
+    "task_name": "task-3-find-non-living-thing",
+    "variation_idx": 230,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-object-selector",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-room-scanner"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      8
+    ]
+  },
+  "112": {
+    "task_name": "task-3-find-non-living-thing",
+    "variation_idx": 231,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-object-selector",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-room-scanner"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "113": {
+    "task_name": "task-3-find-non-living-thing",
+    "variation_idx": 232,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-object-selector",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-environment-scanner"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "114": {
+    "task_name": "task-3-find-non-living-thing",
+    "variation_idx": 233,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-object-selector",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-living-entity-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "115": {
+    "task_name": "task-3-find-non-living-thing",
+    "variation_idx": 234,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-object-selector",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-room-explorer"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      8
+    ]
+  },
+  "116": {
+    "task_name": "task-3-find-plant",
+    "variation_idx": 225,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier",
+      "scienceworld-room-explorer",
+      "scienceworld-room-scanner"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "117": {
+    "task_name": "task-3-find-plant",
+    "variation_idx": 226,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-object-locator",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "118": {
+    "task_name": "task-3-find-plant",
+    "variation_idx": 227,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "119": {
+    "task_name": "task-3-find-plant",
+    "variation_idx": 228,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier",
+      "scienceworld-target-locator",
+      "scienceworld-object-focuser"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      9,
+      9
+    ]
+  },
+  "120": {
+    "task_name": "task-3-find-plant",
+    "variation_idx": 229,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "121": {
+    "task_name": "task-3-find-plant",
+    "variation_idx": 230,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "122": {
+    "task_name": "task-3-find-plant",
+    "variation_idx": 231,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-object-locator",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-selector",
+      "scienceworld-room-explorer"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "123": {
+    "task_name": "task-3-find-plant",
+    "variation_idx": 232,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      10,
+      9
+    ]
+  },
+  "124": {
+    "task_name": "task-3-find-plant",
+    "variation_idx": 233,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier",
+      "scienceworld-target-locator",
+      "scienceworld-object-focuser"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "125": {
+    "task_name": "task-3-find-plant",
+    "variation_idx": 234,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier",
+      "scienceworld-target-locator",
+      "scienceworld-room-explorer"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      9,
+      9
+    ]
+  },
+  "126": {
+    "task_name": "task-4-grow-fruit",
+    "variation_idx": 93,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "controlled-waiting",
+      "scienceworld-growth-focuser",
+      "task-completion-focus"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      9,
+      9
+    ]
+  },
+  "127": {
+    "task_name": "task-4-grow-fruit",
+    "variation_idx": 94,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "soil-extraction",
+      "controlled-waiting"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      10,
+      10
+    ]
+  },
+  "128": {
+    "task_name": "task-4-grow-fruit",
+    "variation_idx": 95,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-growth-focuser",
+      "controlled-waiting",
+      "scienceworld-pot-preparer"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      10,
+      10
+    ]
+  },
+  "129": {
+    "task_name": "task-4-grow-fruit",
+    "variation_idx": 96,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "soil-extraction",
+      "controlled-waiting"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      10,
+      10
+    ]
+  },
+  "130": {
+    "task_name": "task-4-grow-fruit",
+    "variation_idx": 97,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "scienceworld-growth-focuser",
+      "controlled-waiting"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      10,
+      10
+    ]
+  },
+  "131": {
+    "task_name": "task-4-grow-fruit",
+    "variation_idx": 98,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "soil-extraction",
+      "controlled-waiting"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      10,
+      10
+    ]
+  },
+  "132": {
+    "task_name": "task-4-grow-fruit",
+    "variation_idx": 99,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "controlled-waiting",
+      "scienceworld-growth-focuser"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      10,
+      10
+    ]
+  },
+  "133": {
+    "task_name": "task-4-grow-fruit",
+    "variation_idx": 100,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "soil-extraction",
+      "scienceworld-growth-focuser"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "134": {
+    "task_name": "task-4-grow-fruit",
+    "variation_idx": 101,
+    "query": "",
+    "relevant_skill_names": [
+      "task-completion-focus",
+      "scienceworld-growth-focuser",
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      9,
+      9
+    ]
+  },
+  "135": {
+    "task_name": "task-4-grow-fruit",
+    "variation_idx": 102,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-growth-focuser",
+      "task-completion-focus",
+      "scienceworld-pot-preparer"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      10,
+      9
+    ]
+  },
+  "136": {
+    "task_name": "task-4-grow-plant",
+    "variation_idx": 93,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "soil-extraction",
+      "controlled-waiting"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "137": {
+    "task_name": "task-4-grow-plant",
+    "variation_idx": 94,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "controlled-waiting",
+      "scienceworld-growth-focuser"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      10,
+      10
+    ]
+  },
+  "138": {
+    "task_name": "task-4-grow-plant",
+    "variation_idx": 95,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-growth-focuser",
+      "controlled-waiting",
+      "scienceworld-pot-preparer"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      9,
+      9
+    ]
+  },
+  "139": {
+    "task_name": "task-4-grow-plant",
+    "variation_idx": 96,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-growth-focuser",
+      "scienceworld-pot-preparer",
+      "soil-extraction"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "140": {
+    "task_name": "task-4-grow-plant",
+    "variation_idx": 97,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "scienceworld-growth-focuser",
+      "controlled-waiting"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      10,
+      10
+    ]
+  },
+  "141": {
+    "task_name": "task-4-grow-plant",
+    "variation_idx": 98,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "soil-extraction",
+      "scienceworld-growth-focuser"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "142": {
+    "task_name": "task-4-grow-plant",
+    "variation_idx": 99,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "soil-extraction",
+      "controlled-waiting"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      9,
+      9
+    ]
+  },
+  "143": {
+    "task_name": "task-4-grow-plant",
+    "variation_idx": 100,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "soil-extraction",
+      "controlled-waiting"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "144": {
+    "task_name": "task-4-grow-plant",
+    "variation_idx": 101,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "scienceworld-growth-focuser",
+      "controlled-waiting"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      10,
+      10
+    ]
+  },
+  "145": {
+    "task_name": "task-4-grow-plant",
+    "variation_idx": 102,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-growth-focuser",
+      "controlled-waiting",
+      "scienceworld-pot-preparer"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      10,
+      9,
+      9
+    ]
+  },
+  "146": {
+    "task_name": "task-5-chemistry-mix",
+    "variation_idx": 24,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator",
+      "scienceworld-substance-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "147": {
+    "task_name": "task-5-chemistry-mix",
+    "variation_idx": 25,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-substance-fetcher",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-liquid-pourer"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "148": {
+    "task_name": "task-5-chemistry-mix",
+    "variation_idx": 26,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-liquid-pourer",
+      "scienceworld-substance-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "149": {
+    "task_name": "task-5-chemistry-mix",
+    "variation_idx": 27,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator",
+      "task-completion-focus"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "150": {
+    "task_name": "task-5-chemistry-mix",
+    "variation_idx": 28,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator",
+      "scienceworld-substance-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "151": {
+    "task_name": "task-5-chemistry-mix",
+    "variation_idx": 29,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-container-transfer",
+      "scienceworld-liquid-pourer",
+      "scienceworld-substance-preparator",
+      "scienceworld-substance-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "152": {
+    "task_name": "task-5-chemistry-mix",
+    "variation_idx": 30,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-substance-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "153": {
+    "task_name": "task-5-chemistry-mix",
+    "variation_idx": 31,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-substance-preparator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "154": {
+    "task_name": "task-5-chemistry-mix-paint-(secondary-color)",
+    "variation_idx": 27,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-liquid-pourer",
+      "scienceworld-mixture-creator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator",
+      "task-completion-focus"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "155": {
+    "task_name": "task-5-chemistry-mix-paint-(secondary-color)",
+    "variation_idx": 28,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "task-completion-focus"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "156": {
+    "task_name": "task-5-chemistry-mix-paint-(secondary-color)",
+    "variation_idx": 29,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator",
+      "scienceworld-substance-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "157": {
+    "task_name": "task-5-chemistry-mix-paint-(secondary-color)",
+    "variation_idx": 30,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "158": {
+    "task_name": "task-5-chemistry-mix-paint-(secondary-color)",
+    "variation_idx": 31,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-liquid-pourer",
+      "scienceworld-mixture-creator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator",
+      "scienceworld-substance-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "159": {
+    "task_name": "task-5-chemistry-mix-paint-(secondary-color)",
+    "variation_idx": 32,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-liquid-pourer",
+      "scienceworld-mixture-creator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator",
+      "scienceworld-substance-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "160": {
+    "task_name": "task-5-chemistry-mix-paint-(secondary-color)",
+    "variation_idx": 33,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-task-parser",
+      "scienceworld-task-interpreter",
+      "scienceworld-substance-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "161": {
+    "task_name": "task-5-chemistry-mix-paint-(secondary-color)",
+    "variation_idx": 34,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "162": {
+    "task_name": "task-5-chemistry-mix-paint-(secondary-color)",
+    "variation_idx": 35,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "task-completion-focus",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "163": {
+    "task_name": "task-5-chemistry-mix-paint-(tertiary-color)",
+    "variation_idx": 27,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "164": {
+    "task_name": "task-5-chemistry-mix-paint-(tertiary-color)",
+    "variation_idx": 28,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator",
+      "scienceworld-substance-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "165": {
+    "task_name": "task-5-chemistry-mix-paint-(tertiary-color)",
+    "variation_idx": 29,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator",
+      "scienceworld-substance-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "166": {
+    "task_name": "task-5-chemistry-mix-paint-(tertiary-color)",
+    "variation_idx": 30,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-liquid-pourer",
+      "scienceworld-mixture-creator",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "task-completion-focus"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "167": {
+    "task_name": "task-5-chemistry-mix-paint-(tertiary-color)",
+    "variation_idx": 31,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "task-completion-focus",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      8,
+      8
+    ]
+  },
+  "168": {
+    "task_name": "task-5-chemistry-mix-paint-(tertiary-color)",
+    "variation_idx": 32,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-liquid-pourer",
+      "scienceworld-mixture-creator",
+      "task-completion-focus",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-fetcher"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "169": {
+    "task_name": "task-5-chemistry-mix-paint-(tertiary-color)",
+    "variation_idx": 33,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-liquid-pourer",
+      "scienceworld-mixture-creator",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "task-completion-focus"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      8
+    ]
+  },
+  "170": {
+    "task_name": "task-5-chemistry-mix-paint-(tertiary-color)",
+    "variation_idx": 34,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator",
+      "scienceworld-instruction-reader"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      8
+    ]
+  },
+  "171": {
+    "task_name": "task-5-chemistry-mix-paint-(tertiary-color)",
+    "variation_idx": 35,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-fetcher",
+      "scienceworld-object-locator"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "172": {
+    "task_name": "task-6-lifespan-(longest-lived)",
+    "variation_idx": 93,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "173": {
+    "task_name": "task-6-lifespan-(longest-lived)",
+    "variation_idx": 94,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-task-parser",
+      "scienceworld-object-focuser"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      8,
+      8
+    ]
+  },
+  "174": {
+    "task_name": "task-6-lifespan-(longest-lived)",
+    "variation_idx": 95,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-selector"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "175": {
+    "task_name": "task-6-lifespan-(longest-lived)",
+    "variation_idx": 96,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-task-parser",
+      "scienceworld-target-locator"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      8,
+      8
+    ]
+  },
+  "176": {
+    "task_name": "task-6-lifespan-(longest-lived)",
+    "variation_idx": 97,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "task-completion-focus",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-task-parser"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      8,
+      8
+    ]
+  },
+  "177": {
+    "task_name": "task-6-lifespan-(longest-lived)",
+    "variation_idx": 98,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-living-entity-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "178": {
+    "task_name": "task-6-lifespan-(longest-lived)",
+    "variation_idx": 99,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-living-entity-identifier",
+      "task-completion-focus",
+      "scienceworld-task-parser"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "179": {
+    "task_name": "task-6-lifespan-(longest-lived)",
+    "variation_idx": 100,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "180": {
+    "task_name": "task-6-lifespan-(longest-lived)",
+    "variation_idx": 101,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-selector"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "181": {
+    "task_name": "task-6-lifespan-(longest-lived)",
+    "variation_idx": 102,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-object-focuser"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      8,
+      8
+    ]
+  },
+  "182": {
+    "task_name": "task-6-lifespan-(longest-lived-then-shortest-lived)",
+    "variation_idx": 93,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-selector",
+      "scienceworld-target-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "183": {
+    "task_name": "task-6-lifespan-(longest-lived-then-shortest-lived)",
+    "variation_idx": 94,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-living-entity-identifier",
+      "task-completion-focus",
+      "scienceworld-object-focuser"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "184": {
+    "task_name": "task-6-lifespan-(longest-lived-then-shortest-lived)",
+    "variation_idx": 95,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "185": {
+    "task_name": "task-6-lifespan-(longest-lived-then-shortest-lived)",
+    "variation_idx": 96,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "186": {
+    "task_name": "task-6-lifespan-(longest-lived-then-shortest-lived)",
+    "variation_idx": 97,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "187": {
+    "task_name": "task-6-lifespan-(longest-lived-then-shortest-lived)",
+    "variation_idx": 98,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-focuser"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "188": {
+    "task_name": "task-6-lifespan-(longest-lived-then-shortest-lived)",
+    "variation_idx": 99,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-focuser"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "189": {
+    "task_name": "task-6-lifespan-(longest-lived-then-shortest-lived)",
+    "variation_idx": 100,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-focuser"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "190": {
+    "task_name": "task-6-lifespan-(longest-lived-then-shortest-lived)",
+    "variation_idx": 101,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "191": {
+    "task_name": "task-6-lifespan-(longest-lived-then-shortest-lived)",
+    "variation_idx": 102,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "task-completion-focus",
+      "scienceworld-object-focuser",
+      "scienceworld-task-interpreter",
+      "scienceworld-living-entity-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "192": {
+    "task_name": "task-6-lifespan-(shortest-lived)",
+    "variation_idx": 93,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-focuser"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "193": {
+    "task_name": "task-6-lifespan-(shortest-lived)",
+    "variation_idx": 94,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-living-entity-identifier",
+      "task-completion-focus",
+      "scienceworld-object-focuser"
+    ],
+    "relevance_scores": [
+      10,
+      10,
+      9,
+      9,
+      9
+    ]
+  },
+  "194": {
+    "task_name": "task-6-lifespan-(shortest-lived)",
+    "variation_idx": 95,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-selector",
+      "scienceworld-target-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      8,
+      8
+    ]
+  },
+  "195": {
+    "task_name": "task-6-lifespan-(shortest-lived)",
+    "variation_idx": 96,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-focuser"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "196": {
+    "task_name": "task-6-lifespan-(shortest-lived)",
+    "variation_idx": 97,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "197": {
+    "task_name": "task-6-lifespan-(shortest-lived)",
+    "variation_idx": 98,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "task-completion-focus"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "198": {
+    "task_name": "task-6-lifespan-(shortest-lived)",
+    "variation_idx": 99,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "199": {
+    "task_name": "task-6-lifespan-(shortest-lived)",
+    "variation_idx": 100,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-focuser"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "200": {
+    "task_name": "task-6-lifespan-(shortest-lived)",
+    "variation_idx": 101,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "task-completion-focus",
+      "scienceworld-living-entity-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "201": {
+    "task_name": "task-6-lifespan-(shortest-lived)",
+    "variation_idx": 102,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "202": {
+    "task_name": "task-7-identify-life-stages-1",
+    "variation_idx": 9,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-growth-focuser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "203": {
+    "task_name": "task-7-identify-life-stages-1",
+    "variation_idx": 10,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-growth-focuser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-target-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "204": {
+    "task_name": "task-7-identify-life-stages-1",
+    "variation_idx": 11,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-growth-focuser",
+      "controlled-waiting",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "205": {
+    "task_name": "task-7-identify-life-stages-1",
+    "variation_idx": 12,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-growth-focuser",
+      "scienceworld-living-entity-identifier",
+      "controlled-waiting",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      8,
+      8
+    ]
+  },
+  "206": {
+    "task_name": "task-7-identify-life-stages-1",
+    "variation_idx": 13,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-growth-focuser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-target-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "207": {
+    "task_name": "task-7-identify-life-stages-2",
+    "variation_idx": 6,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-target-identifier"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "208": {
+    "task_name": "task-7-identify-life-stages-2",
+    "variation_idx": 7,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "209": {
+    "task_name": "task-7-identify-life-stages-2",
+    "variation_idx": 8,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "task-completion-focus",
+      "scienceworld-object-focuser"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      9,
+      8
+    ]
+  },
+  "210": {
+    "task_name": "task-7-identify-life-stages-2",
+    "variation_idx": 9,
+    "query": "",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus"
+    ],
+    "relevance_scores": [
+      10,
+      9,
+      9,
+      8,
+      8
+    ]
+  }
+}

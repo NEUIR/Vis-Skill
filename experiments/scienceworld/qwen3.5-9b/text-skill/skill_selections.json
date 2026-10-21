@@ -1,0 +1,2534 @@
+{
+  "0": {
+    "task_name": "task-1-boil",
+    "variation_idx": 21,
+    "query": "Your task is to boil lead. For compounds without a boiling point, combusting the substance is also acceptable. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-device-activator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator",
+      "scienceworld-substance-fetcher"
+    ]
+  },
+  "1": {
+    "task_name": "task-1-boil",
+    "variation_idx": 22,
+    "query": "Your task is to boil tin. For compounds without a boiling point, combusting the substance is also acceptable. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-device-activator",
+      "scienceworld-process-monitor"
+    ]
+  },
+  "2": {
+    "task_name": "task-1-boil",
+    "variation_idx": 23,
+    "query": "Your task is to boil tin. For compounds without a boiling point, combusting the substance is also acceptable. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-device-activator",
+      "scienceworld-process-monitor"
+    ]
+  },
+  "3": {
+    "task_name": "task-1-boil",
+    "variation_idx": 24,
+    "query": "Your task is to boil mercury. For compounds without a boiling point, combusting the substance is also acceptable. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-process-monitor",
+      "scienceworld-device-activator",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer"
+    ]
+  },
+  "4": {
+    "task_name": "task-1-boil",
+    "variation_idx": 25,
+    "query": "Your task is to boil mercury. For compounds without a boiling point, combusting the substance is also acceptable. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-device-activator",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-process-monitor"
+    ]
+  },
+  "5": {
+    "task_name": "task-1-boil",
+    "variation_idx": 26,
+    "query": "Your task is to boil gallium. For compounds without a boiling point, combusting the substance is also acceptable. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-device-activator",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-process-monitor"
+    ]
+  },
+  "6": {
+    "task_name": "task-1-boil",
+    "variation_idx": 27,
+    "query": "Your task is to boil gallium. For compounds without a boiling point, combusting the substance is also acceptable. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-device-activator",
+      "scienceworld-process-monitor"
+    ]
+  },
+  "7": {
+    "task_name": "task-1-boil",
+    "variation_idx": 28,
+    "query": "Your task is to boil caesium. For compounds without a boiling point, combusting the substance is also acceptable. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-device-activator",
+      "scienceworld-process-monitor"
+    ]
+  },
+  "8": {
+    "task_name": "task-1-boil",
+    "variation_idx": 29,
+    "query": "Your task is to boil caesium. For compounds without a boiling point, combusting the substance is also acceptable. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-device-activator",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-fetcher"
+    ]
+  },
+  "9": {
+    "task_name": "task-1-change-the-state-of-matter-of",
+    "variation_idx": 21,
+    "query": "Your task is to change the state of matter of lead. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-cooler",
+      "scienceworld-process-monitor",
+      "scienceworld-container-inspector",
+      "task-completion-focus"
+    ]
+  },
+  "10": {
+    "task_name": "task-1-change-the-state-of-matter-of",
+    "variation_idx": 22,
+    "query": "Your task is to change the state of matter of tin. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-cooler",
+      "scienceworld-device-activator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator"
+    ]
+  },
+  "11": {
+    "task_name": "task-1-change-the-state-of-matter-of",
+    "variation_idx": 23,
+    "query": "Your task is to change the state of matter of tin. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-device-activator",
+      "scienceworld-process-monitor"
+    ]
+  },
+  "12": {
+    "task_name": "task-1-change-the-state-of-matter-of",
+    "variation_idx": 24,
+    "query": "Your task is to change the state of matter of mercury. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-cooler",
+      "scienceworld-process-monitor",
+      "scienceworld-container-inspector",
+      "scienceworld-device-activator"
+    ]
+  },
+  "13": {
+    "task_name": "task-1-change-the-state-of-matter-of",
+    "variation_idx": 25,
+    "query": "Your task is to change the state of matter of mercury. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-cooler",
+      "scienceworld-process-monitor",
+      "scienceworld-container-inspector",
+      "scienceworld-substance-preparator"
+    ]
+  },
+  "14": {
+    "task_name": "task-1-change-the-state-of-matter-of",
+    "variation_idx": 26,
+    "query": "Your task is to change the state of matter of gallium. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-cooler",
+      "scienceworld-device-activator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator"
+    ]
+  },
+  "15": {
+    "task_name": "task-1-change-the-state-of-matter-of",
+    "variation_idx": 27,
+    "query": "Your task is to change the state of matter of gallium. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-cooler",
+      "scienceworld-device-activator",
+      "scienceworld-process-monitor",
+      "scienceworld-container-inspector"
+    ]
+  },
+  "16": {
+    "task_name": "task-1-change-the-state-of-matter-of",
+    "variation_idx": 28,
+    "query": "Your task is to change the state of matter of caesium. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-cooler",
+      "scienceworld-device-activator",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer"
+    ]
+  },
+  "17": {
+    "task_name": "task-1-change-the-state-of-matter-of",
+    "variation_idx": 29,
+    "query": "Your task is to change the state of matter of caesium. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-cooler",
+      "scienceworld-process-monitor",
+      "scienceworld-container-inspector",
+      "scienceworld-device-activator"
+    ]
+  },
+  "18": {
+    "task_name": "task-1-freeze",
+    "variation_idx": 21,
+    "query": "Your task is to freeze lead. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-substance-cooler",
+      "scienceworld-substance-fetcher",
+      "scienceworld-substance-preparator",
+      "controlled-waiting",
+      "scienceworld-container-transfer"
+    ]
+  },
+  "19": {
+    "task_name": "task-1-freeze",
+    "variation_idx": 22,
+    "query": "Your task is to freeze tin. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-substance-cooler",
+      "controlled-waiting",
+      "scienceworld-process-monitor",
+      "scienceworld-container-inspector",
+      "scienceworld-substance-fetcher"
+    ]
+  },
+  "20": {
+    "task_name": "task-1-freeze",
+    "variation_idx": 23,
+    "query": "Your task is to freeze tin. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-substance-cooler",
+      "task-completion-focus",
+      "scienceworld-substance-fetcher",
+      "scienceworld-object-focuser",
+      "scienceworld-task-focuser"
+    ]
+  },
+  "21": {
+    "task_name": "task-1-freeze",
+    "variation_idx": 24,
+    "query": "Your task is to freeze mercury. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-substance-cooler",
+      "scienceworld-process-monitor",
+      "scienceworld-container-inspector",
+      "controlled-waiting",
+      "scienceworld-substance-fetcher"
+    ]
+  },
+  "22": {
+    "task_name": "task-1-freeze",
+    "variation_idx": 25,
+    "query": "Your task is to freeze mercury. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-substance-cooler",
+      "scienceworld-process-monitor",
+      "scienceworld-container-inspector",
+      "scienceworld-substance-fetcher",
+      "task-completion-focus"
+    ]
+  },
+  "23": {
+    "task_name": "task-1-freeze",
+    "variation_idx": 26,
+    "query": "Your task is to freeze gallium. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-substance-cooler",
+      "scienceworld-container-inspector",
+      "scienceworld-process-monitor",
+      "controlled-waiting",
+      "scienceworld-substance-fetcher"
+    ]
+  },
+  "24": {
+    "task_name": "task-1-freeze",
+    "variation_idx": 27,
+    "query": "Your task is to freeze gallium. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-substance-cooler",
+      "scienceworld-substance-fetcher",
+      "task-completion-focus",
+      "scienceworld-object-focuser",
+      "scienceworld-process-monitor"
+    ]
+  },
+  "25": {
+    "task_name": "task-1-freeze",
+    "variation_idx": 28,
+    "query": "Your task is to freeze caesium. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-substance-cooler",
+      "scienceworld-substance-fetcher",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "controlled-waiting"
+    ]
+  },
+  "26": {
+    "task_name": "task-1-freeze",
+    "variation_idx": 29,
+    "query": "Your task is to freeze caesium. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-substance-cooler",
+      "scienceworld-container-inspector",
+      "scienceworld-process-monitor",
+      "controlled-waiting",
+      "scienceworld-temperature-measurer"
+    ]
+  },
+  "27": {
+    "task_name": "task-1-melt",
+    "variation_idx": 21,
+    "query": "Your task is to melt lead. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-device-activator",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-fetcher"
+    ]
+  },
+  "28": {
+    "task_name": "task-1-melt",
+    "variation_idx": 22,
+    "query": "Your task is to melt tin. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-device-activator",
+      "scienceworld-process-monitor"
+    ]
+  },
+  "29": {
+    "task_name": "task-1-melt",
+    "variation_idx": 23,
+    "query": "Your task is to melt tin. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-device-activator",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-process-monitor"
+    ]
+  },
+  "30": {
+    "task_name": "task-1-melt",
+    "variation_idx": 24,
+    "query": "Your task is to melt mercury. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-fetcher",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-device-activator"
+    ]
+  },
+  "31": {
+    "task_name": "task-1-melt",
+    "variation_idx": 25,
+    "query": "Your task is to melt mercury. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-device-activator",
+      "scienceworld-process-monitor"
+    ]
+  },
+  "32": {
+    "task_name": "task-1-melt",
+    "variation_idx": 26,
+    "query": "Your task is to melt gallium. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-device-activator",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-process-monitor"
+    ]
+  },
+  "33": {
+    "task_name": "task-1-melt",
+    "variation_idx": 27,
+    "query": "Your task is to melt gallium. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-device-activator",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-fetcher"
+    ]
+  },
+  "34": {
+    "task_name": "task-1-melt",
+    "variation_idx": 28,
+    "query": "Your task is to melt caesium. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-device-activator",
+      "scienceworld-process-monitor"
+    ]
+  },
+  "35": {
+    "task_name": "task-1-melt",
+    "variation_idx": 29,
+    "query": "Your task is to melt caesium. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+    "relevant_skill_names": [
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-fetcher",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-device-activator"
+    ]
+  },
+  "36": {
+    "task_name": "task-10-measure-melting-point-(known-substance)",
+    "variation_idx": 327,
+    "query": "Your task is to measure the melting point of tin, which is located around the kitchen. First, focus on the thermometer. Next, focus on the tin. If the melting point of tin is above 50.0 degrees celsius, focus on the red box. If the melting point of tin is below 50.0 degrees celsius, focus on the green box. The boxes are located around the kitchen.",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-fetcher",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer"
+    ]
+  },
+  "37": {
+    "task_name": "task-10-measure-melting-point-(known-substance)",
+    "variation_idx": 328,
+    "query": "Your task is to measure the melting point of tin, which is located around the kitchen. First, focus on the thermometer. Next, focus on the tin. If the melting point of tin is above 150.0 degrees celsius, focus on the orange box. If the melting point of tin is below 150.0 degrees celsius, focus on the yellow box. The boxes are located around the kitchen.",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-measurement-taker",
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-device-activator",
+      "scienceworld-substance-preparator"
+    ]
+  },
+  "38": {
+    "task_name": "task-10-measure-melting-point-(known-substance)",
+    "variation_idx": 329,
+    "query": "Your task is to measure the melting point of water, which is located around the kitchen. First, focus on the thermometer. Next, focus on the water. If the melting point of water is above 150.0 degrees celsius, focus on the blue box. If the melting point of water is below 150.0 degrees celsius, focus on the orange box. The boxes are located around the kitchen.",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-measurement-taker",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer"
+    ]
+  },
+  "39": {
+    "task_name": "task-10-measure-melting-point-(known-substance)",
+    "variation_idx": 330,
+    "query": "Your task is to measure the melting point of water, which is located around the kitchen. First, focus on the thermometer. Next, focus on the water. If the melting point of water is above -10.0 degrees celsius, focus on the blue box. If the melting point of water is below -10.0 degrees celsius, focus on the orange box. The boxes are located around the kitchen.",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-device-activator"
+    ]
+  },
+  "40": {
+    "task_name": "task-10-measure-melting-point-(known-substance)",
+    "variation_idx": 331,
+    "query": "Your task is to measure the melting point of tin, which is located around the kitchen. First, focus on the thermometer. Next, focus on the tin. If the melting point of tin is above 10.0 degrees celsius, focus on the blue box. If the melting point of tin is below 10.0 degrees celsius, focus on the orange box. The boxes are located around the kitchen.",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-measurement-taker",
+      "scienceworld-device-activator",
+      "scienceworld-tool-fetcher"
+    ]
+  },
+  "41": {
+    "task_name": "task-10-measure-melting-point-(known-substance)",
+    "variation_idx": 332,
+    "query": "Your task is to measure the melting point of tin, which is located around the kitchen. First, focus on the thermometer. Next, focus on the tin. If the melting point of tin is above 10.0 degrees celsius, focus on the orange box. If the melting point of tin is below 10.0 degrees celsius, focus on the yellow box. The boxes are located around the kitchen.",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-measurement-taker",
+      "scienceworld-process-monitor",
+      "scienceworld-device-activator"
+    ]
+  },
+  "42": {
+    "task_name": "task-10-measure-melting-point-(known-substance)",
+    "variation_idx": 333,
+    "query": "Your task is to measure the melting point of water, which is located around the kitchen. First, focus on the thermometer. Next, focus on the water. If the melting point of water is above 150.0 degrees celsius, focus on the red box. If the melting point of water is below 150.0 degrees celsius, focus on the green box. The boxes are located around the kitchen.",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-measurement-taker",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer"
+    ]
+  },
+  "43": {
+    "task_name": "task-10-measure-melting-point-(known-substance)",
+    "variation_idx": 334,
+    "query": "Your task is to measure the melting point of tin, which is located around the kitchen. First, focus on the thermometer. Next, focus on the tin. If the melting point of tin is above 50.0 degrees celsius, focus on the blue box. If the melting point of tin is below 50.0 degrees celsius, focus on the orange box. The boxes are located around the kitchen.",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-device-activator"
+    ]
+  },
+  "44": {
+    "task_name": "task-10-measure-melting-point-(known-substance)",
+    "variation_idx": 335,
+    "query": "Your task is to measure the melting point of water, which is located around the kitchen. First, focus on the thermometer. Next, focus on the water. If the melting point of water is above 150.0 degrees celsius, focus on the red box. If the melting point of water is below 150.0 degrees celsius, focus on the green box. The boxes are located around the kitchen.",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-fetcher",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer"
+    ]
+  },
+  "45": {
+    "task_name": "task-10-measure-melting-point-(known-substance)",
+    "variation_idx": 336,
+    "query": "Your task is to measure the melting point of water, which is located around the kitchen. First, focus on the thermometer. Next, focus on the water. If the melting point of water is above 200.0 degrees celsius, focus on the blue box. If the melting point of water is below 200.0 degrees celsius, focus on the orange box. The boxes are located around the kitchen.",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-heating-apparatus-setup",
+      "scienceworld-substance-preparator",
+      "scienceworld-substance-fetcher",
+      "scienceworld-device-activator"
+    ]
+  },
+  "46": {
+    "task_name": "task-10-use-thermometer",
+    "variation_idx": 405,
+    "query": "Your task is to measure the temperature of unknown substance B, which is located around the bathroom. First, focus on the thermometer. Next, focus on the unknown substance B. If the unknown substance B temperature is above 200.0 degrees celsius, place it in the yellow box. If the unknown substance B temperature is below 200.0 degrees celsius, place it in the purple box. The boxes are located around the bathroom.",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-measurement-taker",
+      "scienceworld-tool-user",
+      "scienceworld-tool-fetcher",
+      "scienceworld-item-fetcher"
+    ]
+  },
+  "47": {
+    "task_name": "task-10-use-thermometer",
+    "variation_idx": 406,
+    "query": "Your task is to measure the temperature of wire, which is located around the living room. First, focus on the thermometer. Next, focus on the wire. If the wire temperature is above 200.0 degrees celsius, place it in the red box. If the wire temperature is below 200.0 degrees celsius, place it in the green box. The boxes are located around the bathroom.",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-measurement-taker",
+      "scienceworld-tool-user",
+      "scienceworld-tool-fetcher",
+      "scienceworld-item-fetcher"
+    ]
+  },
+  "48": {
+    "task_name": "task-10-use-thermometer",
+    "variation_idx": 407,
+    "query": "Your task is to measure the temperature of wire, which is located around the bedroom. First, focus on the thermometer. Next, focus on the wire. If the wire temperature is above 100.0 degrees celsius, place it in the green box. If the wire temperature is below 100.0 degrees celsius, place it in the blue box. The boxes are located around the living room.",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-measurement-taker",
+      "scienceworld-tool-fetcher",
+      "scienceworld-tool-user",
+      "scienceworld-item-fetcher"
+    ]
+  },
+  "49": {
+    "task_name": "task-10-use-thermometer",
+    "variation_idx": 408,
+    "query": "Your task is to measure the temperature of wire, which is located around the living room. First, focus on the thermometer. Next, focus on the wire. If the wire temperature is above 0.0 degrees celsius, place it in the blue box. If the wire temperature is below 0.0 degrees celsius, place it in the orange box. The boxes are located around the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-measurement-taker",
+      "scienceworld-tool-user",
+      "scienceworld-tool-fetcher",
+      "scienceworld-item-fetcher"
+    ]
+  },
+  "50": {
+    "task_name": "task-10-use-thermometer",
+    "variation_idx": 409,
+    "query": "Your task is to measure the temperature of unknown substance B, which is located around the bathroom. First, focus on the thermometer. Next, focus on the unknown substance B. If the unknown substance B temperature is above 0.0 degrees celsius, place it in the orange box. If the unknown substance B temperature is below 0.0 degrees celsius, place it in the yellow box. The boxes are located around the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-measurement-taker",
+      "scienceworld-tool-user",
+      "scienceworld-tool-fetcher",
+      "scienceworld-item-fetcher"
+    ]
+  },
+  "51": {
+    "task_name": "task-10-use-thermometer",
+    "variation_idx": 410,
+    "query": "Your task is to measure the temperature of wood, which is located around the living room. First, focus on the thermometer. Next, focus on the wood. If the wood temperature is above 200.0 degrees celsius, place it in the green box. If the wood temperature is below 200.0 degrees celsius, place it in the blue box. The boxes are located around the living room.",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-measurement-taker",
+      "scienceworld-tool-user",
+      "scienceworld-tool-fetcher",
+      "scienceworld-item-fetcher"
+    ]
+  },
+  "52": {
+    "task_name": "task-10-use-thermometer",
+    "variation_idx": 411,
+    "query": "Your task is to measure the temperature of unknown substance B, which is located around the bathroom. First, focus on the thermometer. Next, focus on the unknown substance B. If the unknown substance B temperature is above 200.0 degrees celsius, place it in the blue box. If the unknown substance B temperature is below 200.0 degrees celsius, place it in the orange box. The boxes are located around the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-measurement-taker",
+      "scienceworld-tool-user",
+      "scienceworld-tool-fetcher",
+      "scienceworld-item-fetcher"
+    ]
+  },
+  "53": {
+    "task_name": "task-10-use-thermometer",
+    "variation_idx": 412,
+    "query": "Your task is to measure the temperature of unknown substance B, which is located around the bathroom. First, focus on the thermometer. Next, focus on the unknown substance B. If the unknown substance B temperature is above -50.0 degrees celsius, place it in the yellow box. If the unknown substance B temperature is below -50.0 degrees celsius, place it in the purple box. The boxes are located around the living room.",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-measurement-taker",
+      "scienceworld-tool-user",
+      "scienceworld-tool-fetcher",
+      "scienceworld-item-fetcher"
+    ]
+  },
+  "54": {
+    "task_name": "task-10-use-thermometer",
+    "variation_idx": 413,
+    "query": "Your task is to measure the temperature of wood, which is located around the bathroom. First, focus on the thermometer. Next, focus on the wood. If the wood temperature is above 100.0 degrees celsius, place it in the orange box. If the wood temperature is below 100.0 degrees celsius, place it in the yellow box. The boxes are located around the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-measurement-taker",
+      "scienceworld-tool-user",
+      "scienceworld-tool-fetcher",
+      "scienceworld-item-fetcher"
+    ]
+  },
+  "55": {
+    "task_name": "task-10-use-thermometer",
+    "variation_idx": 414,
+    "query": "Your task is to measure the temperature of unknown substance B, which is located around the bathroom. First, focus on the thermometer. Next, focus on the unknown substance B. If the unknown substance B temperature is above 50.0 degrees celsius, place it in the blue box. If the unknown substance B temperature is below 50.0 degrees celsius, place it in the orange box. The boxes are located around the bathroom.",
+    "relevant_skill_names": [
+      "scienceworld-temperature-measurer",
+      "scienceworld-measurement-taker",
+      "scienceworld-tool-user",
+      "scienceworld-tool-fetcher",
+      "scienceworld-item-fetcher"
+    ]
+  },
+  "56": {
+    "task_name": "task-2-power-component",
+    "variation_idx": 15,
+    "query": "Your task is to turn on the electric motor. First, focus on the electric motor. Then, create an electrical circuit that powers it on.",
+    "relevant_skill_names": [
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-conductivity-tester",
+      "scienceworld-object-selector",
+      "scienceworld-task-parser"
+    ]
+  },
+  "57": {
+    "task_name": "task-2-power-component",
+    "variation_idx": 16,
+    "query": "Your task is to turn on the electric buzzer. First, focus on the electric buzzer. Then, create an electrical circuit that powers it on.",
+    "relevant_skill_names": [
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-conductivity-tester",
+      "scienceworld-object-selector",
+      "scienceworld-task-focuser"
+    ]
+  },
+  "58": {
+    "task_name": "task-2-power-component",
+    "variation_idx": 17,
+    "query": "Your task is to turn on the electric buzzer. First, focus on the electric buzzer. Then, create an electrical circuit that powers it on.",
+    "relevant_skill_names": [
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-conductivity-tester",
+      "scienceworld-object-selector",
+      "scienceworld-task-focuser"
+    ]
+  },
+  "59": {
+    "task_name": "task-2-power-component",
+    "variation_idx": 18,
+    "query": "Your task is to turn on the electric buzzer. First, focus on the electric buzzer. Then, create an electrical circuit that powers it on.",
+    "relevant_skill_names": [
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-conductivity-tester",
+      "scienceworld-object-selector",
+      "scienceworld-task-parser"
+    ]
+  },
+  "60": {
+    "task_name": "task-2-power-component",
+    "variation_idx": 19,
+    "query": "Your task is to turn on the electric buzzer. First, focus on the electric buzzer. Then, create an electrical circuit that powers it on.",
+    "relevant_skill_names": [
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-conductivity-tester",
+      "scienceworld-object-selector",
+      "scienceworld-task-parser"
+    ]
+  },
+  "61": {
+    "task_name": "task-2-power-component-(renewable-vs-nonrenewable-energy)",
+    "variation_idx": 15,
+    "query": "Your task is to turn on the electric motor by powering it using a nonrenewable power source. First, focus on the electric motor. Then, create an electrical circuit that powers it on.",
+    "relevant_skill_names": [
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-object-selector",
+      "scienceworld-conductivity-tester",
+      "scienceworld-task-focuser"
+    ]
+  },
+  "62": {
+    "task_name": "task-2-power-component-(renewable-vs-nonrenewable-energy)",
+    "variation_idx": 16,
+    "query": "Your task is to turn on the electric buzzer by powering it using a renewable power source. First, focus on the electric buzzer. Then, create an electrical circuit that powers it on.",
+    "relevant_skill_names": [
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-object-selector",
+      "scienceworld-task-parser",
+      "scienceworld-task-interpreter"
+    ]
+  },
+  "63": {
+    "task_name": "task-2-power-component-(renewable-vs-nonrenewable-energy)",
+    "variation_idx": 17,
+    "query": "Your task is to turn on the electric buzzer by powering it using a nonrenewable power source. First, focus on the electric buzzer. Then, create an electrical circuit that powers it on.",
+    "relevant_skill_names": [
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-conductivity-tester",
+      "scienceworld-object-selector",
+      "scienceworld-task-parser"
+    ]
+  },
+  "64": {
+    "task_name": "task-2-power-component-(renewable-vs-nonrenewable-energy)",
+    "variation_idx": 18,
+    "query": "Your task is to turn on the electric buzzer by powering it using a renewable power source. First, focus on the electric buzzer. Then, create an electrical circuit that powers it on.",
+    "relevant_skill_names": [
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-conductivity-tester",
+      "scienceworld-object-selector",
+      "scienceworld-environment-scanner"
+    ]
+  },
+  "65": {
+    "task_name": "task-2-power-component-(renewable-vs-nonrenewable-energy)",
+    "variation_idx": 19,
+    "query": "Your task is to turn on the electric buzzer by powering it using a nonrenewable power source. First, focus on the electric buzzer. Then, create an electrical circuit that powers it on.",
+    "relevant_skill_names": [
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-conductivity-tester",
+      "scienceworld-object-selector",
+      "scienceworld-task-parser"
+    ]
+  },
+  "66": {
+    "task_name": "task-2a-test-conductivity",
+    "variation_idx": 675,
+    "query": "Your task is to determine if sodium chloride is electrically conductive. The sodium chloride is located around the workshop. First, focus on the sodium chloride. If it is electrically conductive, place it in the red box. If it is electrically nonconductive, place it in the green box.",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-material-classifier",
+      "scienceworld-result-archiver"
+    ]
+  },
+  "67": {
+    "task_name": "task-2a-test-conductivity",
+    "variation_idx": 676,
+    "query": "Your task is to determine if sodium chloride is electrically conductive. The sodium chloride is located around the workshop. First, focus on the sodium chloride. If it is electrically conductive, place it in the green box. If it is electrically nonconductive, place it in the blue box.",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-material-classifier",
+      "scienceworld-result-archiver"
+    ]
+  },
+  "68": {
+    "task_name": "task-2a-test-conductivity",
+    "variation_idx": 677,
+    "query": "Your task is to determine if sodium chloride is electrically conductive. The sodium chloride is located around the workshop. First, focus on the sodium chloride. If it is electrically conductive, place it in the blue box. If it is electrically nonconductive, place it in the orange box.",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-material-classifier",
+      "scienceworld-result-archiver"
+    ]
+  },
+  "69": {
+    "task_name": "task-2a-test-conductivity",
+    "variation_idx": 678,
+    "query": "Your task is to determine if sodium chloride is electrically conductive. The sodium chloride is located around the workshop. First, focus on the sodium chloride. If it is electrically conductive, place it in the orange box. If it is electrically nonconductive, place it in the yellow box.",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-result-archiver",
+      "scienceworld-object-placer"
+    ]
+  },
+  "70": {
+    "task_name": "task-2a-test-conductivity",
+    "variation_idx": 679,
+    "query": "Your task is to determine if sodium chloride is electrically conductive. The sodium chloride is located around the workshop. First, focus on the sodium chloride. If it is electrically conductive, place it in the yellow box. If it is electrically nonconductive, place it in the purple box.",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-object-classifier",
+      "scienceworld-result-archiver"
+    ]
+  },
+  "71": {
+    "task_name": "task-2a-test-conductivity",
+    "variation_idx": 680,
+    "query": "Your task is to determine if sodium chloride is electrically conductive. The sodium chloride is located around the workshop. First, focus on the sodium chloride. If it is electrically conductive, place it in the red box. If it is electrically nonconductive, place it in the green box.",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-result-archiver",
+      "scienceworld-object-classifier"
+    ]
+  },
+  "72": {
+    "task_name": "task-2a-test-conductivity",
+    "variation_idx": 681,
+    "query": "Your task is to determine if sodium chloride is electrically conductive. The sodium chloride is located around the workshop. First, focus on the sodium chloride. If it is electrically conductive, place it in the green box. If it is electrically nonconductive, place it in the blue box.",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-result-archiver",
+      "scienceworld-object-classifier"
+    ]
+  },
+  "73": {
+    "task_name": "task-2a-test-conductivity",
+    "variation_idx": 682,
+    "query": "Your task is to determine if sodium chloride is electrically conductive. The sodium chloride is located around the workshop. First, focus on the sodium chloride. If it is electrically conductive, place it in the blue box. If it is electrically nonconductive, place it in the orange box.",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-material-classifier",
+      "scienceworld-result-archiver"
+    ]
+  },
+  "74": {
+    "task_name": "task-2a-test-conductivity",
+    "variation_idx": 683,
+    "query": "Your task is to determine if sodium chloride is electrically conductive. The sodium chloride is located around the workshop. First, focus on the sodium chloride. If it is electrically conductive, place it in the orange box. If it is electrically nonconductive, place it in the yellow box.",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-result-archiver",
+      "scienceworld-object-placer"
+    ]
+  },
+  "75": {
+    "task_name": "task-2a-test-conductivity",
+    "variation_idx": 684,
+    "query": "Your task is to determine if sodium chloride is electrically conductive. The sodium chloride is located around the workshop. First, focus on the sodium chloride. If it is electrically conductive, place it in the yellow box. If it is electrically nonconductive, place it in the purple box.",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-result-archiver",
+      "scienceworld-material-classifier"
+    ]
+  },
+  "76": {
+    "task_name": "task-2a-test-conductivity-of-unknown-substances",
+    "variation_idx": 450,
+    "query": "Your task is to determine if unknown substance U is electrically conductive. The unknown substance U is located around the workshop. First, focus on the unknown substance U. If it is electrically conductive, place it in the red box. If it is electrically nonconductive, place it in the green box.",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-result-archiver",
+      "scienceworld-object-classifier"
+    ]
+  },
+  "77": {
+    "task_name": "task-2a-test-conductivity-of-unknown-substances",
+    "variation_idx": 451,
+    "query": "Your task is to determine if unknown substance U is electrically conductive. The unknown substance U is located around the workshop. First, focus on the unknown substance U. If it is electrically conductive, place it in the green box. If it is electrically nonconductive, place it in the blue box.",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-result-archiver",
+      "scienceworld-object-classifier"
+    ]
+  },
+  "78": {
+    "task_name": "task-2a-test-conductivity-of-unknown-substances",
+    "variation_idx": 452,
+    "query": "Your task is to determine if unknown substance U is electrically conductive. The unknown substance U is located around the workshop. First, focus on the unknown substance U. If it is electrically conductive, place it in the blue box. If it is electrically nonconductive, place it in the orange box.",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-result-archiver",
+      "scienceworld-object-placer"
+    ]
+  },
+  "79": {
+    "task_name": "task-2a-test-conductivity-of-unknown-substances",
+    "variation_idx": 453,
+    "query": "Your task is to determine if unknown substance U is electrically conductive. The unknown substance U is located around the workshop. First, focus on the unknown substance U. If it is electrically conductive, place it in the orange box. If it is electrically nonconductive, place it in the yellow box.",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-result-archiver",
+      "scienceworld-object-classifier"
+    ]
+  },
+  "80": {
+    "task_name": "task-2a-test-conductivity-of-unknown-substances",
+    "variation_idx": 454,
+    "query": "Your task is to determine if unknown substance U is electrically conductive. The unknown substance U is located around the workshop. First, focus on the unknown substance U. If it is electrically conductive, place it in the yellow box. If it is electrically nonconductive, place it in the purple box.",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-result-archiver",
+      "scienceworld-object-classifier"
+    ]
+  },
+  "81": {
+    "task_name": "task-2a-test-conductivity-of-unknown-substances",
+    "variation_idx": 455,
+    "query": "Your task is to determine if unknown substance U is electrically conductive. The unknown substance U is located around the workshop. First, focus on the unknown substance U. If it is electrically conductive, place it in the red box. If it is electrically nonconductive, place it in the green box.",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-material-classifier",
+      "scienceworld-object-classifier"
+    ]
+  },
+  "82": {
+    "task_name": "task-2a-test-conductivity-of-unknown-substances",
+    "variation_idx": 456,
+    "query": "Your task is to determine if unknown substance U is electrically conductive. The unknown substance U is located around the workshop. First, focus on the unknown substance U. If it is electrically conductive, place it in the green box. If it is electrically nonconductive, place it in the blue box.",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-material-classifier",
+      "scienceworld-result-archiver"
+    ]
+  },
+  "83": {
+    "task_name": "task-2a-test-conductivity-of-unknown-substances",
+    "variation_idx": 457,
+    "query": "Your task is to determine if unknown substance U is electrically conductive. The unknown substance U is located around the workshop. First, focus on the unknown substance U. If it is electrically conductive, place it in the blue box. If it is electrically nonconductive, place it in the orange box.",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-result-archiver",
+      "scienceworld-object-classifier"
+    ]
+  },
+  "84": {
+    "task_name": "task-2a-test-conductivity-of-unknown-substances",
+    "variation_idx": 458,
+    "query": "Your task is to determine if unknown substance U is electrically conductive. The unknown substance U is located around the workshop. First, focus on the unknown substance U. If it is electrically conductive, place it in the orange box. If it is electrically nonconductive, place it in the yellow box.",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-result-archiver",
+      "scienceworld-object-classifier"
+    ]
+  },
+  "85": {
+    "task_name": "task-2a-test-conductivity-of-unknown-substances",
+    "variation_idx": 459,
+    "query": "Your task is to determine if unknown substance U is electrically conductive. The unknown substance U is located around the workshop. First, focus on the unknown substance U. If it is electrically conductive, place it in the yellow box. If it is electrically nonconductive, place it in the purple box.",
+    "relevant_skill_names": [
+      "scienceworld-conductivity-tester",
+      "scienceworld-circuit-builder",
+      "scienceworld-circuit-connector",
+      "scienceworld-material-classifier",
+      "scienceworld-result-archiver"
+    ]
+  },
+  "86": {
+    "task_name": "task-3-find-animal",
+    "variation_idx": 225,
+    "query": "Your task is to find a(n) animal. First, focus on the thing. Then, move it to the orange box in the living room.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-locator",
+      "scienceworld-target-locator",
+      "scienceworld-task-interpreter"
+    ]
+  },
+  "87": {
+    "task_name": "task-3-find-animal",
+    "variation_idx": 226,
+    "query": "Your task is to find a(n) animal. First, focus on the thing. Then, move it to the yellow box in the living room.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-target-locator",
+      "scienceworld-object-locator"
+    ]
+  },
+  "88": {
+    "task_name": "task-3-find-animal",
+    "variation_idx": 227,
+    "query": "Your task is to find a(n) animal. First, focus on the thing. Then, move it to the purple box in the living room.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-locator",
+      "scienceworld-target-locator",
+      "scienceworld-target-identifier"
+    ]
+  },
+  "89": {
+    "task_name": "task-3-find-animal",
+    "variation_idx": 228,
+    "query": "Your task is to find a(n) animal. First, focus on the thing. Then, move it to the red box in the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-locator",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier"
+    ]
+  },
+  "90": {
+    "task_name": "task-3-find-animal",
+    "variation_idx": 229,
+    "query": "Your task is to find a(n) animal. First, focus on the thing. Then, move it to the green box in the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-locator",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier"
+    ]
+  },
+  "91": {
+    "task_name": "task-3-find-animal",
+    "variation_idx": 230,
+    "query": "Your task is to find a(n) animal. First, focus on the thing. Then, move it to the blue box in the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-locator",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier"
+    ]
+  },
+  "92": {
+    "task_name": "task-3-find-animal",
+    "variation_idx": 231,
+    "query": "Your task is to find a(n) animal. First, focus on the thing. Then, move it to the orange box in the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-locator",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier"
+    ]
+  },
+  "93": {
+    "task_name": "task-3-find-animal",
+    "variation_idx": 232,
+    "query": "Your task is to find a(n) animal. First, focus on the thing. Then, move it to the yellow box in the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-locator",
+      "scienceworld-target-locator",
+      "scienceworld-task-interpreter"
+    ]
+  },
+  "94": {
+    "task_name": "task-3-find-animal",
+    "variation_idx": 233,
+    "query": "Your task is to find a(n) animal. First, focus on the thing. Then, move it to the purple box in the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-locator",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier"
+    ]
+  },
+  "95": {
+    "task_name": "task-3-find-animal",
+    "variation_idx": 234,
+    "query": "Your task is to find a(n) animal. First, focus on the thing. Then, move it to the red box in the workshop.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-locator",
+      "scienceworld-target-locator"
+    ]
+  },
+  "96": {
+    "task_name": "task-3-find-living-thing",
+    "variation_idx": 225,
+    "query": "Your task is to find a(n) living thing. First, focus on the thing. Then, move it to the orange box in the living room.",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-animal-identifier"
+    ]
+  },
+  "97": {
+    "task_name": "task-3-find-living-thing",
+    "variation_idx": 226,
+    "query": "Your task is to find a(n) living thing. First, focus on the thing. Then, move it to the yellow box in the living room.",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-animal-identifier"
+    ]
+  },
+  "98": {
+    "task_name": "task-3-find-living-thing",
+    "variation_idx": 227,
+    "query": "Your task is to find a(n) living thing. First, focus on the thing. Then, move it to the purple box in the living room.",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "task-completion-focus",
+      "scienceworld-object-focuser",
+      "scienceworld-object-locator"
+    ]
+  },
+  "99": {
+    "task_name": "task-3-find-living-thing",
+    "variation_idx": 228,
+    "query": "Your task is to find a(n) living thing. First, focus on the thing. Then, move it to the red box in the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-animal-identifier"
+    ]
+  },
+  "100": {
+    "task_name": "task-3-find-living-thing",
+    "variation_idx": 229,
+    "query": "Your task is to find a(n) living thing. First, focus on the thing. Then, move it to the green box in the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-animal-identifier"
+    ]
+  },
+  "101": {
+    "task_name": "task-3-find-living-thing",
+    "variation_idx": 230,
+    "query": "Your task is to find a(n) living thing. First, focus on the thing. Then, move it to the blue box in the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-object-locator"
+    ]
+  },
+  "102": {
+    "task_name": "task-3-find-living-thing",
+    "variation_idx": 231,
+    "query": "Your task is to find a(n) living thing. First, focus on the thing. Then, move it to the orange box in the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-animal-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus"
+    ]
+  },
+  "103": {
+    "task_name": "task-3-find-living-thing",
+    "variation_idx": 232,
+    "query": "Your task is to find a(n) living thing. First, focus on the thing. Then, move it to the yellow box in the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-environment-scanner"
+    ]
+  },
+  "104": {
+    "task_name": "task-3-find-living-thing",
+    "variation_idx": 233,
+    "query": "Your task is to find a(n) living thing. First, focus on the thing. Then, move it to the purple box in the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-animal-identifier"
+    ]
+  },
+  "105": {
+    "task_name": "task-3-find-living-thing",
+    "variation_idx": 234,
+    "query": "Your task is to find a(n) living thing. First, focus on the thing. Then, move it to the red box in the workshop.",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-animal-identifier"
+    ]
+  },
+  "106": {
+    "task_name": "task-3-find-non-living-thing",
+    "variation_idx": 225,
+    "query": "Your task is to find a(n) non-living thing. First, focus on the thing. Then, move it to the orange box in the living room.",
+    "relevant_skill_names": [
+      "scienceworld-object-selector",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-room-explorer"
+    ]
+  },
+  "107": {
+    "task_name": "task-3-find-non-living-thing",
+    "variation_idx": 226,
+    "query": "Your task is to find a(n) non-living thing. First, focus on the thing. Then, move it to the yellow box in the living room.",
+    "relevant_skill_names": [
+      "scienceworld-object-selector",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-environment-scanner"
+    ]
+  },
+  "108": {
+    "task_name": "task-3-find-non-living-thing",
+    "variation_idx": 227,
+    "query": "Your task is to find a(n) non-living thing. First, focus on the thing. Then, move it to the purple box in the living room.",
+    "relevant_skill_names": [
+      "scienceworld-object-selector",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-environment-scanner"
+    ]
+  },
+  "109": {
+    "task_name": "task-3-find-non-living-thing",
+    "variation_idx": 228,
+    "query": "Your task is to find a(n) non-living thing. First, focus on the thing. Then, move it to the red box in the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-object-selector",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "scienceworld-room-scanner",
+      "scienceworld-environment-scanner"
+    ]
+  },
+  "110": {
+    "task_name": "task-3-find-non-living-thing",
+    "variation_idx": 229,
+    "query": "Your task is to find a(n) non-living thing. First, focus on the thing. Then, move it to the green box in the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-object-selector",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-room-scanner"
+    ]
+  },
+  "111": {
+    "task_name": "task-3-find-non-living-thing",
+    "variation_idx": 230,
+    "query": "Your task is to find a(n) non-living thing. First, focus on the thing. Then, move it to the blue box in the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-object-selector",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-room-scanner"
+    ]
+  },
+  "112": {
+    "task_name": "task-3-find-non-living-thing",
+    "variation_idx": 231,
+    "query": "Your task is to find a(n) non-living thing. First, focus on the thing. Then, move it to the orange box in the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-object-selector",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-room-scanner"
+    ]
+  },
+  "113": {
+    "task_name": "task-3-find-non-living-thing",
+    "variation_idx": 232,
+    "query": "Your task is to find a(n) non-living thing. First, focus on the thing. Then, move it to the yellow box in the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-object-selector",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-environment-scanner"
+    ]
+  },
+  "114": {
+    "task_name": "task-3-find-non-living-thing",
+    "variation_idx": 233,
+    "query": "Your task is to find a(n) non-living thing. First, focus on the thing. Then, move it to the purple box in the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-object-selector",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-living-entity-identifier"
+    ]
+  },
+  "115": {
+    "task_name": "task-3-find-non-living-thing",
+    "variation_idx": 234,
+    "query": "Your task is to find a(n) non-living thing. First, focus on the thing. Then, move it to the red box in the workshop.",
+    "relevant_skill_names": [
+      "scienceworld-object-selector",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-room-explorer"
+    ]
+  },
+  "116": {
+    "task_name": "task-3-find-plant",
+    "variation_idx": 225,
+    "query": "Your task is to find a(n) plant. First, focus on the thing. Then, move it to the orange box in the living room.",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier",
+      "scienceworld-room-explorer",
+      "scienceworld-room-scanner"
+    ]
+  },
+  "117": {
+    "task_name": "task-3-find-plant",
+    "variation_idx": 226,
+    "query": "Your task is to find a(n) plant. First, focus on the thing. Then, move it to the yellow box in the living room.",
+    "relevant_skill_names": [
+      "scienceworld-object-locator",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus"
+    ]
+  },
+  "118": {
+    "task_name": "task-3-find-plant",
+    "variation_idx": 227,
+    "query": "Your task is to find a(n) plant. First, focus on the thing. Then, move it to the purple box in the living room.",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus"
+    ]
+  },
+  "119": {
+    "task_name": "task-3-find-plant",
+    "variation_idx": 228,
+    "query": "Your task is to find a(n) plant. First, focus on the thing. Then, move it to the red box in the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier",
+      "scienceworld-target-locator",
+      "scienceworld-object-focuser"
+    ]
+  },
+  "120": {
+    "task_name": "task-3-find-plant",
+    "variation_idx": 229,
+    "query": "Your task is to find a(n) plant. First, focus on the thing. Then, move it to the green box in the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus"
+    ]
+  },
+  "121": {
+    "task_name": "task-3-find-plant",
+    "variation_idx": 230,
+    "query": "Your task is to find a(n) plant. First, focus on the thing. Then, move it to the blue box in the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser"
+    ]
+  },
+  "122": {
+    "task_name": "task-3-find-plant",
+    "variation_idx": 231,
+    "query": "Your task is to find a(n) plant. First, focus on the thing. Then, move it to the orange box in the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-object-locator",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-selector",
+      "scienceworld-room-explorer"
+    ]
+  },
+  "123": {
+    "task_name": "task-3-find-plant",
+    "variation_idx": 232,
+    "query": "Your task is to find a(n) plant. First, focus on the thing. Then, move it to the yellow box in the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus"
+    ]
+  },
+  "124": {
+    "task_name": "task-3-find-plant",
+    "variation_idx": 233,
+    "query": "Your task is to find a(n) plant. First, focus on the thing. Then, move it to the purple box in the bedroom.",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier",
+      "scienceworld-target-locator",
+      "scienceworld-object-focuser"
+    ]
+  },
+  "125": {
+    "task_name": "task-3-find-plant",
+    "variation_idx": 234,
+    "query": "Your task is to find a(n) plant. First, focus on the thing. Then, move it to the red box in the workshop.",
+    "relevant_skill_names": [
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-locator",
+      "scienceworld-target-identifier",
+      "scienceworld-target-locator",
+      "scienceworld-room-explorer"
+    ]
+  },
+  "126": {
+    "task_name": "task-4-grow-fruit",
+    "variation_idx": 93,
+    "query": "Your task is to grow a orange. This will require growing several plants, and them being crosspollinated to produce fruit.  Seeds can be found in the bathroom. To complete the task, focus on the grown orange.",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "controlled-waiting",
+      "scienceworld-growth-focuser",
+      "task-completion-focus"
+    ]
+  },
+  "127": {
+    "task_name": "task-4-grow-fruit",
+    "variation_idx": 94,
+    "query": "Your task is to grow a orange. This will require growing several plants, and them being crosspollinated to produce fruit.  Seeds can be found in the bathroom. To complete the task, focus on the grown orange.",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "soil-extraction",
+      "controlled-waiting"
+    ]
+  },
+  "128": {
+    "task_name": "task-4-grow-fruit",
+    "variation_idx": 95,
+    "query": "Your task is to grow a orange. This will require growing several plants, and them being crosspollinated to produce fruit.  Seeds can be found in the bathroom. To complete the task, focus on the grown orange.",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-growth-focuser",
+      "controlled-waiting",
+      "scienceworld-pot-preparer"
+    ]
+  },
+  "129": {
+    "task_name": "task-4-grow-fruit",
+    "variation_idx": 96,
+    "query": "Your task is to grow a orange. This will require growing several plants, and them being crosspollinated to produce fruit.  Seeds can be found in the living room. To complete the task, focus on the grown orange.",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "soil-extraction",
+      "controlled-waiting"
+    ]
+  },
+  "130": {
+    "task_name": "task-4-grow-fruit",
+    "variation_idx": 97,
+    "query": "Your task is to grow a orange. This will require growing several plants, and them being crosspollinated to produce fruit.  Seeds can be found in the living room. To complete the task, focus on the grown orange.",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "scienceworld-growth-focuser",
+      "controlled-waiting"
+    ]
+  },
+  "131": {
+    "task_name": "task-4-grow-fruit",
+    "variation_idx": 98,
+    "query": "Your task is to grow a orange. This will require growing several plants, and them being crosspollinated to produce fruit.  Seeds can be found in the living room. To complete the task, focus on the grown orange.",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "soil-extraction",
+      "controlled-waiting"
+    ]
+  },
+  "132": {
+    "task_name": "task-4-grow-fruit",
+    "variation_idx": 99,
+    "query": "Your task is to grow a orange. This will require growing several plants, and them being crosspollinated to produce fruit.  Seeds can be found in the bedroom. To complete the task, focus on the grown orange.",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "controlled-waiting",
+      "scienceworld-growth-focuser"
+    ]
+  },
+  "133": {
+    "task_name": "task-4-grow-fruit",
+    "variation_idx": 100,
+    "query": "Your task is to grow a orange. This will require growing several plants, and them being crosspollinated to produce fruit.  Seeds can be found in the bedroom. To complete the task, focus on the grown orange.",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "soil-extraction",
+      "scienceworld-growth-focuser"
+    ]
+  },
+  "134": {
+    "task_name": "task-4-grow-fruit",
+    "variation_idx": 101,
+    "query": "Your task is to grow a orange. This will require growing several plants, and them being crosspollinated to produce fruit.  Seeds can be found in the bedroom. To complete the task, focus on the grown orange.",
+    "relevant_skill_names": [
+      "task-completion-focus",
+      "scienceworld-growth-focuser",
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer"
+    ]
+  },
+  "135": {
+    "task_name": "task-4-grow-fruit",
+    "variation_idx": 102,
+    "query": "Your task is to grow a orange. This will require growing several plants, and them being crosspollinated to produce fruit.  Seeds can be found in the workshop. To complete the task, focus on the grown orange.",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-growth-focuser",
+      "task-completion-focus",
+      "scienceworld-pot-preparer"
+    ]
+  },
+  "136": {
+    "task_name": "task-4-grow-plant",
+    "variation_idx": 93,
+    "query": "Your task is to grow a orange plant from seed. Seeds can be found in the bathroom. First, focus on a seed. Then, make changes to the environment that grow the plant until it reaches the reproduction life stage.",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "soil-extraction",
+      "controlled-waiting"
+    ]
+  },
+  "137": {
+    "task_name": "task-4-grow-plant",
+    "variation_idx": 94,
+    "query": "Your task is to grow a orange plant from seed. Seeds can be found in the bathroom. First, focus on a seed. Then, make changes to the environment that grow the plant until it reaches the reproduction life stage.",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "controlled-waiting",
+      "scienceworld-growth-focuser"
+    ]
+  },
+  "138": {
+    "task_name": "task-4-grow-plant",
+    "variation_idx": 95,
+    "query": "Your task is to grow a orange plant from seed. Seeds can be found in the bathroom. First, focus on a seed. Then, make changes to the environment that grow the plant until it reaches the reproduction life stage.",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-growth-focuser",
+      "controlled-waiting",
+      "scienceworld-pot-preparer"
+    ]
+  },
+  "139": {
+    "task_name": "task-4-grow-plant",
+    "variation_idx": 96,
+    "query": "Your task is to grow a orange plant from seed. Seeds can be found in the living room. First, focus on a seed. Then, make changes to the environment that grow the plant until it reaches the reproduction life stage.",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-growth-focuser",
+      "scienceworld-pot-preparer",
+      "soil-extraction"
+    ]
+  },
+  "140": {
+    "task_name": "task-4-grow-plant",
+    "variation_idx": 97,
+    "query": "Your task is to grow a orange plant from seed. Seeds can be found in the living room. First, focus on a seed. Then, make changes to the environment that grow the plant until it reaches the reproduction life stage.",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "scienceworld-growth-focuser",
+      "controlled-waiting"
+    ]
+  },
+  "141": {
+    "task_name": "task-4-grow-plant",
+    "variation_idx": 98,
+    "query": "Your task is to grow a orange plant from seed. Seeds can be found in the living room. First, focus on a seed. Then, make changes to the environment that grow the plant until it reaches the reproduction life stage.",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "soil-extraction",
+      "scienceworld-growth-focuser"
+    ]
+  },
+  "142": {
+    "task_name": "task-4-grow-plant",
+    "variation_idx": 99,
+    "query": "Your task is to grow a orange plant from seed. Seeds can be found in the bedroom. First, focus on a seed. Then, make changes to the environment that grow the plant until it reaches the reproduction life stage.",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "soil-extraction",
+      "controlled-waiting"
+    ]
+  },
+  "143": {
+    "task_name": "task-4-grow-plant",
+    "variation_idx": 100,
+    "query": "Your task is to grow a orange plant from seed. Seeds can be found in the bedroom. First, focus on a seed. Then, make changes to the environment that grow the plant until it reaches the reproduction life stage.",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "soil-extraction",
+      "controlled-waiting"
+    ]
+  },
+  "144": {
+    "task_name": "task-4-grow-plant",
+    "variation_idx": 101,
+    "query": "Your task is to grow a orange plant from seed. Seeds can be found in the bedroom. First, focus on a seed. Then, make changes to the environment that grow the plant until it reaches the reproduction life stage.",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-pot-preparer",
+      "scienceworld-growth-focuser",
+      "controlled-waiting"
+    ]
+  },
+  "145": {
+    "task_name": "task-4-grow-plant",
+    "variation_idx": 102,
+    "query": "Your task is to grow a orange plant from seed. Seeds can be found in the workshop. First, focus on a seed. Then, make changes to the environment that grow the plant until it reaches the reproduction life stage.",
+    "relevant_skill_names": [
+      "scienceworld-planting-coordinator",
+      "scienceworld-planting-operation",
+      "scienceworld-growth-focuser",
+      "controlled-waiting",
+      "scienceworld-pot-preparer"
+    ]
+  },
+  "146": {
+    "task_name": "task-5-chemistry-mix",
+    "variation_idx": 24,
+    "query": "Your task is to use chemistry to create the substance 'sugar water'. A recipe and some of the ingredients might be found near the kitchen. When you are done, focus on the sugar water.",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator",
+      "scienceworld-substance-fetcher"
+    ]
+  },
+  "147": {
+    "task_name": "task-5-chemistry-mix",
+    "variation_idx": 25,
+    "query": "Your task is to use chemistry to create the substance 'peanut butter with banana sandwich'. A recipe and some of the ingredients might be found near the kitchen. When you are done, focus on the peanut butter with banana sandwich.",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-substance-fetcher",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-liquid-pourer"
+    ]
+  },
+  "148": {
+    "task_name": "task-5-chemistry-mix",
+    "variation_idx": 26,
+    "query": "Your task is to use chemistry to create the substance 'rust'. A recipe and some of the ingredients might be found near the kitchen. When you are done, focus on the rust.",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-liquid-pourer",
+      "scienceworld-substance-fetcher"
+    ]
+  },
+  "149": {
+    "task_name": "task-5-chemistry-mix",
+    "variation_idx": 27,
+    "query": "Your task is to use chemistry to create the substance 'red paper'. A recipe and some of the ingredients might be found near the kitchen. When you are done, focus on the red paper.",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator",
+      "task-completion-focus"
+    ]
+  },
+  "150": {
+    "task_name": "task-5-chemistry-mix",
+    "variation_idx": 28,
+    "query": "Your task is to use chemistry to create the substance 'sugar water'. A recipe and some of the ingredients might be found near the workshop. When you are done, focus on the sugar water.",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator",
+      "scienceworld-substance-fetcher"
+    ]
+  },
+  "151": {
+    "task_name": "task-5-chemistry-mix",
+    "variation_idx": 29,
+    "query": "Your task is to use chemistry to create the substance 'peanut butter with banana sandwich'. A recipe and some of the ingredients might be found near the workshop. When you are done, focus on the peanut butter with banana sandwich.",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-container-transfer",
+      "scienceworld-liquid-pourer",
+      "scienceworld-substance-preparator",
+      "scienceworld-substance-fetcher"
+    ]
+  },
+  "152": {
+    "task_name": "task-5-chemistry-mix",
+    "variation_idx": 30,
+    "query": "Your task is to use chemistry to create the substance 'rust'. A recipe and some of the ingredients might be found near the workshop. When you are done, focus on the rust.",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-substance-fetcher"
+    ]
+  },
+  "153": {
+    "task_name": "task-5-chemistry-mix",
+    "variation_idx": 31,
+    "query": "Your task is to use chemistry to create the substance 'red paper'. A recipe and some of the ingredients might be found near the workshop. When you are done, focus on the red paper.",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-substance-preparator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-fetcher"
+    ]
+  },
+  "154": {
+    "task_name": "task-5-chemistry-mix-paint-(secondary-color)",
+    "variation_idx": 27,
+    "query": "Your task is to use chemistry to create violet paint. When you are done, focus on the violet paint.",
+    "relevant_skill_names": [
+      "scienceworld-liquid-pourer",
+      "scienceworld-mixture-creator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator",
+      "task-completion-focus"
+    ]
+  },
+  "155": {
+    "task_name": "task-5-chemistry-mix-paint-(secondary-color)",
+    "variation_idx": 28,
+    "query": "Your task is to use chemistry to create violet paint. When you are done, focus on the violet paint.",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "task-completion-focus"
+    ]
+  },
+  "156": {
+    "task_name": "task-5-chemistry-mix-paint-(secondary-color)",
+    "variation_idx": 29,
+    "query": "Your task is to use chemistry to create violet paint. When you are done, focus on the violet paint.",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator",
+      "scienceworld-substance-fetcher"
+    ]
+  },
+  "157": {
+    "task_name": "task-5-chemistry-mix-paint-(secondary-color)",
+    "variation_idx": 30,
+    "query": "Your task is to use chemistry to create violet paint. When you are done, focus on the violet paint.",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-fetcher"
+    ]
+  },
+  "158": {
+    "task_name": "task-5-chemistry-mix-paint-(secondary-color)",
+    "variation_idx": 31,
+    "query": "Your task is to use chemistry to create violet paint. When you are done, focus on the violet paint.",
+    "relevant_skill_names": [
+      "scienceworld-liquid-pourer",
+      "scienceworld-mixture-creator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator",
+      "scienceworld-substance-fetcher"
+    ]
+  },
+  "159": {
+    "task_name": "task-5-chemistry-mix-paint-(secondary-color)",
+    "variation_idx": 32,
+    "query": "Your task is to use chemistry to create violet paint. When you are done, focus on the violet paint.",
+    "relevant_skill_names": [
+      "scienceworld-liquid-pourer",
+      "scienceworld-mixture-creator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator",
+      "scienceworld-substance-fetcher"
+    ]
+  },
+  "160": {
+    "task_name": "task-5-chemistry-mix-paint-(secondary-color)",
+    "variation_idx": 33,
+    "query": "Your task is to use chemistry to create violet paint. When you are done, focus on the violet paint.",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-task-parser",
+      "scienceworld-task-interpreter",
+      "scienceworld-substance-fetcher"
+    ]
+  },
+  "161": {
+    "task_name": "task-5-chemistry-mix-paint-(secondary-color)",
+    "variation_idx": 34,
+    "query": "Your task is to use chemistry to create violet paint. When you are done, focus on the violet paint.",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-fetcher"
+    ]
+  },
+  "162": {
+    "task_name": "task-5-chemistry-mix-paint-(secondary-color)",
+    "variation_idx": 35,
+    "query": "Your task is to use chemistry to create violet paint. When you are done, focus on the violet paint.",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "task-completion-focus",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-fetcher"
+    ]
+  },
+  "163": {
+    "task_name": "task-5-chemistry-mix-paint-(tertiary-color)",
+    "variation_idx": 27,
+    "query": "Your task is to use chemistry to create violet-red paint. When you are part-way done, focus on the intermediate (secondary color) paint you created.  When you are completely done, focus on the violet paint.",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-fetcher"
+    ]
+  },
+  "164": {
+    "task_name": "task-5-chemistry-mix-paint-(tertiary-color)",
+    "variation_idx": 28,
+    "query": "Your task is to use chemistry to create violet-red paint. When you are part-way done, focus on the intermediate (secondary color) paint you created.  When you are completely done, focus on the violet paint.",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator",
+      "scienceworld-substance-fetcher"
+    ]
+  },
+  "165": {
+    "task_name": "task-5-chemistry-mix-paint-(tertiary-color)",
+    "variation_idx": 29,
+    "query": "Your task is to use chemistry to create violet-red paint. When you are part-way done, focus on the intermediate (secondary color) paint you created.  When you are completely done, focus on the violet paint.",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator",
+      "scienceworld-substance-fetcher"
+    ]
+  },
+  "166": {
+    "task_name": "task-5-chemistry-mix-paint-(tertiary-color)",
+    "variation_idx": 30,
+    "query": "Your task is to use chemistry to create blue-violet paint. When you are part-way done, focus on the intermediate (secondary color) paint you created.  When you are completely done, focus on the violet paint.",
+    "relevant_skill_names": [
+      "scienceworld-liquid-pourer",
+      "scienceworld-mixture-creator",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "task-completion-focus"
+    ]
+  },
+  "167": {
+    "task_name": "task-5-chemistry-mix-paint-(tertiary-color)",
+    "variation_idx": 31,
+    "query": "Your task is to use chemistry to create blue-violet paint. When you are part-way done, focus on the intermediate (secondary color) paint you created.  When you are completely done, focus on the violet paint.",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "task-completion-focus",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator"
+    ]
+  },
+  "168": {
+    "task_name": "task-5-chemistry-mix-paint-(tertiary-color)",
+    "variation_idx": 32,
+    "query": "Your task is to use chemistry to create blue-violet paint. When you are part-way done, focus on the intermediate (secondary color) paint you created.  When you are completely done, focus on the violet paint.",
+    "relevant_skill_names": [
+      "scienceworld-liquid-pourer",
+      "scienceworld-mixture-creator",
+      "task-completion-focus",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-fetcher"
+    ]
+  },
+  "169": {
+    "task_name": "task-5-chemistry-mix-paint-(tertiary-color)",
+    "variation_idx": 33,
+    "query": "Your task is to use chemistry to create blue-violet paint. When you are part-way done, focus on the intermediate (secondary color) paint you created.  When you are completely done, focus on the violet paint.",
+    "relevant_skill_names": [
+      "scienceworld-liquid-pourer",
+      "scienceworld-mixture-creator",
+      "scienceworld-substance-preparator",
+      "scienceworld-container-transfer",
+      "task-completion-focus"
+    ]
+  },
+  "170": {
+    "task_name": "task-5-chemistry-mix-paint-(tertiary-color)",
+    "variation_idx": 34,
+    "query": "Your task is to use chemistry to create blue-violet paint. When you are part-way done, focus on the intermediate (secondary color) paint you created.  When you are completely done, focus on the violet paint.",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-preparator",
+      "scienceworld-instruction-reader"
+    ]
+  },
+  "171": {
+    "task_name": "task-5-chemistry-mix-paint-(tertiary-color)",
+    "variation_idx": 35,
+    "query": "Your task is to use chemistry to create blue-violet paint. When you are part-way done, focus on the intermediate (secondary color) paint you created.  When you are completely done, focus on the violet paint.",
+    "relevant_skill_names": [
+      "scienceworld-mixture-creator",
+      "scienceworld-liquid-pourer",
+      "scienceworld-container-transfer",
+      "scienceworld-substance-fetcher",
+      "scienceworld-object-locator"
+    ]
+  },
+  "172": {
+    "task_name": "task-6-lifespan-(longest-lived)",
+    "variation_idx": 93,
+    "query": "Your task is to find the animal with the longest life span.  The animals are in the 'outside' location.  Focus on the animal with the longest life span.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier"
+    ]
+  },
+  "173": {
+    "task_name": "task-6-lifespan-(longest-lived)",
+    "variation_idx": 94,
+    "query": "Your task is to find the animal with the longest life span.  The animals are in the 'outside' location.  Focus on the animal with the longest life span.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-task-parser",
+      "scienceworld-object-focuser"
+    ]
+  },
+  "174": {
+    "task_name": "task-6-lifespan-(longest-lived)",
+    "variation_idx": 95,
+    "query": "Your task is to find the animal with the longest life span.  The animals are in the 'outside' location.  Focus on the animal with the longest life span.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-selector"
+    ]
+  },
+  "175": {
+    "task_name": "task-6-lifespan-(longest-lived)",
+    "variation_idx": 96,
+    "query": "Your task is to find the animal with the longest life span.  The animals are in the 'outside' location.  Focus on the animal with the longest life span.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-task-parser",
+      "scienceworld-target-locator"
+    ]
+  },
+  "176": {
+    "task_name": "task-6-lifespan-(longest-lived)",
+    "variation_idx": 97,
+    "query": "Your task is to find the animal with the longest life span.  The animals are in the 'outside' location.  Focus on the animal with the longest life span.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "task-completion-focus",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-task-parser"
+    ]
+  },
+  "177": {
+    "task_name": "task-6-lifespan-(longest-lived)",
+    "variation_idx": 98,
+    "query": "Your task is to find the animal with the longest life span.  The animals are in the 'outside' location.  Focus on the animal with the longest life span.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-living-entity-identifier"
+    ]
+  },
+  "178": {
+    "task_name": "task-6-lifespan-(longest-lived)",
+    "variation_idx": 99,
+    "query": "Your task is to find the animal with the longest life span.  The animals are in the 'outside' location.  Focus on the animal with the longest life span.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-living-entity-identifier",
+      "task-completion-focus",
+      "scienceworld-task-parser"
+    ]
+  },
+  "179": {
+    "task_name": "task-6-lifespan-(longest-lived)",
+    "variation_idx": 100,
+    "query": "Your task is to find the animal with the longest life span.  The animals are in the 'outside' location.  Focus on the animal with the longest life span.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier"
+    ]
+  },
+  "180": {
+    "task_name": "task-6-lifespan-(longest-lived)",
+    "variation_idx": 101,
+    "query": "Your task is to find the animal with the longest life span.  The animals are in the 'outside' location.  Focus on the animal with the longest life span.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-selector"
+    ]
+  },
+  "181": {
+    "task_name": "task-6-lifespan-(longest-lived)",
+    "variation_idx": 102,
+    "query": "Your task is to find the animal with the longest life span.  The animals are in the 'outside' location.  Focus on the animal with the longest life span.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-object-focuser"
+    ]
+  },
+  "182": {
+    "task_name": "task-6-lifespan-(longest-lived-then-shortest-lived)",
+    "variation_idx": 93,
+    "query": "Your task is to find the animal with the longest life span, then the shortest life span. First, focus on the animal with the longest life span.  Then, focus on the animal with the shortest life span. The animals are in the 'outside' location.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-selector",
+      "scienceworld-target-identifier"
+    ]
+  },
+  "183": {
+    "task_name": "task-6-lifespan-(longest-lived-then-shortest-lived)",
+    "variation_idx": 94,
+    "query": "Your task is to find the animal with the longest life span, then the shortest life span. First, focus on the animal with the longest life span.  Then, focus on the animal with the shortest life span. The animals are in the 'outside' location.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-living-entity-identifier",
+      "task-completion-focus",
+      "scienceworld-object-focuser"
+    ]
+  },
+  "184": {
+    "task_name": "task-6-lifespan-(longest-lived-then-shortest-lived)",
+    "variation_idx": 95,
+    "query": "Your task is to find the animal with the longest life span, then the shortest life span. First, focus on the animal with the longest life span.  Then, focus on the animal with the shortest life span. The animals are in the 'outside' location.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier"
+    ]
+  },
+  "185": {
+    "task_name": "task-6-lifespan-(longest-lived-then-shortest-lived)",
+    "variation_idx": 96,
+    "query": "Your task is to find the animal with the longest life span, then the shortest life span. First, focus on the animal with the longest life span.  Then, focus on the animal with the shortest life span. The animals are in the 'outside' location.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier"
+    ]
+  },
+  "186": {
+    "task_name": "task-6-lifespan-(longest-lived-then-shortest-lived)",
+    "variation_idx": 97,
+    "query": "Your task is to find the animal with the longest life span, then the shortest life span. First, focus on the animal with the longest life span.  Then, focus on the animal with the shortest life span. The animals are in the 'outside' location.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier"
+    ]
+  },
+  "187": {
+    "task_name": "task-6-lifespan-(longest-lived-then-shortest-lived)",
+    "variation_idx": 98,
+    "query": "Your task is to find the animal with the longest life span, then the shortest life span. First, focus on the animal with the longest life span.  Then, focus on the animal with the shortest life span. The animals are in the 'outside' location.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-focuser"
+    ]
+  },
+  "188": {
+    "task_name": "task-6-lifespan-(longest-lived-then-shortest-lived)",
+    "variation_idx": 99,
+    "query": "Your task is to find the animal with the longest life span, then the shortest life span. First, focus on the animal with the longest life span.  Then, focus on the animal with the shortest life span. The animals are in the 'outside' location.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-focuser"
+    ]
+  },
+  "189": {
+    "task_name": "task-6-lifespan-(longest-lived-then-shortest-lived)",
+    "variation_idx": 100,
+    "query": "Your task is to find the animal with the longest life span, then the shortest life span. First, focus on the animal with the longest life span.  Then, focus on the animal with the shortest life span. The animals are in the 'outside' location.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-focuser"
+    ]
+  },
+  "190": {
+    "task_name": "task-6-lifespan-(longest-lived-then-shortest-lived)",
+    "variation_idx": 101,
+    "query": "Your task is to find the animal with the longest life span, then the shortest life span. First, focus on the animal with the longest life span.  Then, focus on the animal with the shortest life span. The animals are in the 'outside' location.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier"
+    ]
+  },
+  "191": {
+    "task_name": "task-6-lifespan-(longest-lived-then-shortest-lived)",
+    "variation_idx": 102,
+    "query": "Your task is to find the animal with the longest life span, then the shortest life span. First, focus on the animal with the longest life span.  Then, focus on the animal with the shortest life span. The animals are in the 'outside' location.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "task-completion-focus",
+      "scienceworld-object-focuser",
+      "scienceworld-task-interpreter",
+      "scienceworld-living-entity-identifier"
+    ]
+  },
+  "192": {
+    "task_name": "task-6-lifespan-(shortest-lived)",
+    "variation_idx": 93,
+    "query": "Your task is to find the animal with the shortest life span.  The animals are in the 'outside' location.  Focus on the animal with the shortest life span.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-focuser"
+    ]
+  },
+  "193": {
+    "task_name": "task-6-lifespan-(shortest-lived)",
+    "variation_idx": 94,
+    "query": "Your task is to find the animal with the shortest life span.  The animals are in the 'outside' location.  Focus on the animal with the shortest life span.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-living-entity-identifier",
+      "task-completion-focus",
+      "scienceworld-object-focuser"
+    ]
+  },
+  "194": {
+    "task_name": "task-6-lifespan-(shortest-lived)",
+    "variation_idx": 95,
+    "query": "Your task is to find the animal with the shortest life span.  The animals are in the 'outside' location.  Focus on the animal with the shortest life span.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-selector",
+      "scienceworld-target-identifier"
+    ]
+  },
+  "195": {
+    "task_name": "task-6-lifespan-(shortest-lived)",
+    "variation_idx": 96,
+    "query": "Your task is to find the animal with the shortest life span.  The animals are in the 'outside' location.  Focus on the animal with the shortest life span.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-focuser"
+    ]
+  },
+  "196": {
+    "task_name": "task-6-lifespan-(shortest-lived)",
+    "variation_idx": 97,
+    "query": "Your task is to find the animal with the shortest life span.  The animals are in the 'outside' location.  Focus on the animal with the shortest life span.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier"
+    ]
+  },
+  "197": {
+    "task_name": "task-6-lifespan-(shortest-lived)",
+    "variation_idx": 98,
+    "query": "Your task is to find the animal with the shortest life span.  The animals are in the 'outside' location.  Focus on the animal with the shortest life span.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "task-completion-focus"
+    ]
+  },
+  "198": {
+    "task_name": "task-6-lifespan-(shortest-lived)",
+    "variation_idx": 99,
+    "query": "Your task is to find the animal with the shortest life span.  The animals are in the 'outside' location.  Focus on the animal with the shortest life span.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus"
+    ]
+  },
+  "199": {
+    "task_name": "task-6-lifespan-(shortest-lived)",
+    "variation_idx": 100,
+    "query": "Your task is to find the animal with the shortest life span.  The animals are in the 'outside' location.  Focus on the animal with the shortest life span.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-focuser"
+    ]
+  },
+  "200": {
+    "task_name": "task-6-lifespan-(shortest-lived)",
+    "variation_idx": 101,
+    "query": "Your task is to find the animal with the shortest life span.  The animals are in the 'outside' location.  Focus on the animal with the shortest life span.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-task-parser",
+      "task-completion-focus",
+      "scienceworld-living-entity-identifier"
+    ]
+  },
+  "201": {
+    "task_name": "task-6-lifespan-(shortest-lived)",
+    "variation_idx": 102,
+    "query": "Your task is to find the animal with the shortest life span.  The animals are in the 'outside' location.  Focus on the animal with the shortest life span.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-task-interpreter",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus"
+    ]
+  },
+  "202": {
+    "task_name": "task-7-identify-life-stages-1",
+    "variation_idx": 9,
+    "query": "Your task is to focus on the 4 life stages of the giant tortoise, starting from earliest to latest.",
+    "relevant_skill_names": [
+      "scienceworld-growth-focuser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus"
+    ]
+  },
+  "203": {
+    "task_name": "task-7-identify-life-stages-1",
+    "variation_idx": 10,
+    "query": "Your task is to focus on the 4 life stages of the dove, starting from earliest to latest.",
+    "relevant_skill_names": [
+      "scienceworld-growth-focuser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-target-identifier"
+    ]
+  },
+  "204": {
+    "task_name": "task-7-identify-life-stages-1",
+    "variation_idx": 11,
+    "query": "Your task is to focus on the 4 life stages of the parrot, starting from earliest to latest.",
+    "relevant_skill_names": [
+      "scienceworld-growth-focuser",
+      "controlled-waiting",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser"
+    ]
+  },
+  "205": {
+    "task_name": "task-7-identify-life-stages-1",
+    "variation_idx": 12,
+    "query": "Your task is to focus on the 4 life stages of the butterfly, starting from earliest to latest.",
+    "relevant_skill_names": [
+      "scienceworld-growth-focuser",
+      "scienceworld-living-entity-identifier",
+      "controlled-waiting",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser"
+    ]
+  },
+  "206": {
+    "task_name": "task-7-identify-life-stages-1",
+    "variation_idx": 13,
+    "query": "Your task is to focus on the 3 life stages of the brown bear, starting from earliest to latest.",
+    "relevant_skill_names": [
+      "scienceworld-growth-focuser",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-target-identifier"
+    ]
+  },
+  "207": {
+    "task_name": "task-7-identify-life-stages-2",
+    "variation_idx": 6,
+    "query": "Your task is to focus on the life stages of the lemon plant, starting from earliest to latest. The plants are located outside.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus",
+      "scienceworld-target-identifier"
+    ]
+  },
+  "208": {
+    "task_name": "task-7-identify-life-stages-2",
+    "variation_idx": 7,
+    "query": "Your task is to focus on the life stages of the orange plant, starting from earliest to latest. The plants are located outside.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus"
+    ]
+  },
+  "209": {
+    "task_name": "task-7-identify-life-stages-2",
+    "variation_idx": 8,
+    "query": "Your task is to focus on the life stages of the peach plant, starting from earliest to latest. The plants are located outside.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "task-completion-focus",
+      "scienceworld-object-focuser"
+    ]
+  },
+  "210": {
+    "task_name": "task-7-identify-life-stages-2",
+    "variation_idx": 9,
+    "query": "Your task is to focus on the life stages of the pear plant, starting from earliest to latest. The plants are located outside.",
+    "relevant_skill_names": [
+      "scienceworld-animal-identifier",
+      "scienceworld-living-entity-identifier",
+      "scienceworld-target-identifier",
+      "scienceworld-object-focuser",
+      "task-completion-focus"
+    ]
+  }
+}

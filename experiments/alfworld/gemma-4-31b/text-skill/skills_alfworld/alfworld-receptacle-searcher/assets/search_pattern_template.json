@@ -1,0 +1,43 @@
+{
+  "skill_name": "alfworld-receptacle-searcher",
+  "purpose": "Template for generating a systematic search pattern for a target receptacle.",
+  "parameters": {
+    "target_receptacle": {
+      "type": "string",
+      "description": "The name of the receptacle to find (e.g., 'garbagecan 1')."
+    },
+    "initial_observation": {
+      "type": "string",
+      "description": "The initial environment description containing a list of receptacles."
+    },
+    "search_strategy": {
+      "type": "string",
+      "enum": ["exhaustive", "smart"],
+      "default": "exhaustive",
+      "description": "'exhaustive' checks all known receptacles; 'smart' uses heuristics to prioritize likely locations."
+    }
+  },
+  "output": {
+    "actions": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^go to [a-zA-Z0-9]+ [0-9]+$"
+      },
+      "description": "A list of 'go to' actions to execute in order."
+    },
+    "found_at": {
+      "type": "string",
+      "description": "The receptacle where the target was found (if known)."
+    }
+  },
+  "example": {
+    "target_receptacle": "garbagecan 1",
+    "initial_observation": "You are in the middle of a room. Looking quickly around you, you see a cabinet 1, a cabinet 2, a countertop 1, a garbagecan 1.",
+    "search_strategy": "exhaustive",
+    "output": {
+      "actions": ["go to cabinet 1", "go to cabinet 2", "go to countertop 1", "go to garbagecan 1"],
+      "found_at": "garbagecan 1"
+    }
+  }
+}

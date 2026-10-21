@@ -1,0 +1,200 @@
+<EXAMPLE_1>
+
+# Task Completion Strategy: Locate Living Thing and Move to Red Box in Bathroom
+
+Your task is to find a living thing, focus on it, and move it to the red box in the bathroom. This requires completing multiple phases in sequence.
+
+## **Phase 1: Search and Locate Living Thing**
+
+- Systematically search **high-probability locations** where living things are typically found:
+  - **greenhouse** (plants, insects, small animals)
+  - **outside** (birds, insects, outdoor creatures)
+  - **living room** (pets, plants)
+  - **bedroom** (pets, plants)
+  
+- Use `teleport to [ROOM]` to navigate to each location
+- Upon arrival, use `look around` to survey the room and identify all visible objects
+- Scan the observation carefully for any living things (animals, plants, insects, birds)
+- If the target is not found, continue to the next high-probability room
+- Once a living thing is identified, note its exact name as shown in the environment (e.g., "dove", "plant", "butterfly")
+
+## **Phase 2: Focus on the Living Thing**
+
+- **CRITICAL**: Before picking up the object, you MUST signal your intent
+- Use `focus on [LIVING_THING]` where [LIVING_THING] is the exact name observed in the environment
+- Wait for confirmation feedback that the focus action was successful
+- This step is mandatory before proceeding to acquisition
+
+## **Phase 3: Acquire the Living Thing**
+
+- Ensure you are in the same room as the focused living thing
+- Use `pick up [LIVING_THING]` to transfer it to your inventory
+- Verify through environment feedback that the object is now in your inventory
+- Confirm the living thing is no longer visible in the room description
+
+## **Phase 4: Transport to Bathroom**
+
+- With the living thing secured in your inventory, navigate to the bathroom
+- Use `teleport to bathroom` to travel directly
+- Upon arrival, use `look around` to confirm you are in the bathroom
+- Identify the red box in the room description and note its exact identifier (e.g., "red box")
+
+## **Phase 5: Place Living Thing in Red Box**
+
+- Verify the living thing is still in your inventory
+- Use `move [LIVING_THING] to red box` to transfer the object from inventory to the target container
+- Confirm through environment feedback that the placement was successful
+- Task is complete when the living thing is successfully placed in the red box
+
+## **Critical Reminders:**
+
+- **Search Pattern**: If initial high-probability rooms yield no results, expand search to: hallway, art studio, workshop, kitchen
+- **Exact Naming**: Always use the exact object name as it appears in the environment observation (e.g., if you see "dove 1", use "dove 1" in commands)
+- **Focus is Mandatory**: The task explicitly requires focusing on the living thing before moving it. Do NOT skip Phase 2
+- **Container Pre-opened**: All containers including the red box are already open; you can directly move objects into them
+- **Error Handling**: If you receive an error message, verify:
+  - You are in the correct room
+  - The object name matches exactly what's in the environment
+  - The object is in your inventory (for placement actions)
+  - Try `look around` to refresh your understanding of the current state
+- **Inventory Verification**: After `pick up` actions, always check that the object is confirmed in your inventory before proceeding
+- **Task Completion**: Success is determined ONLY by environment feedback confirming the living thing is in the red box in the bathroom
+
+<EXAMPLE_1_END>
+
+--------------------------------------------------------------------------------
+
+<EXAMPLE_2>
+
+# Task Completion Strategy: Move Animal to Green Box
+
+To complete this task successfully, follow this structured workflow:
+
+## **Phase 1: Locate the Animal**
+- Begin systematic search for an animal in high-probability locations
+- Recommended search order:
+    1. **Living room** (the destination room - efficient to check first)
+    2. **Outside** (animals commonly found outdoors)
+    3. **Greenhouse** (animals/organisms may be present)
+    4. **Bedroom, hallway, other rooms** (if not found above)
+- For each location:
+    - Use `teleport to ROOM_NAME` to navigate to the room
+    - Use `look around` to observe all visible items and containers
+    - Use `examine OBJECT` if you need detailed inspection of a suspected animal
+    - Carefully read the observation feedback to identify any animal
+- Continue searching until an animal is definitively identified
+
+## **Phase 2: Focus on the Animal**
+- Once you have identified the animal in the environment, you MUST signal your intent before acquiring it
+- Use `focus on ANIMAL_NAME` where ANIMAL_NAME is the exact identifier from your observation (e.g., `focus on dove`, `focus on butterfly`)
+- Verify the focus confirmation in the system feedback before proceeding
+- **Critical**: Do not skip this step - the task explicitly requires focusing on the thing
+
+## **Phase 3: Acquire the Animal**
+- Ensure you are in the same room as the animal
+- Use `pick up ANIMAL_NAME` to transfer the animal to your inventory
+- Confirm through observation feedback that the animal is now in your inventory
+- If you receive "Nothing happened", verify:
+    - You are in the correct room with the animal
+    - You have used the correct object identifier
+    - The animal is accessible (not inside a closed container - though all containers are pre-opened)
+
+## **Phase 4: Transport to Living Room**
+- If you are not already in the living room, use `teleport to living room` to navigate there
+- Use `look around` to confirm you are in the living room and to locate the green box
+- Visually identify the green box in the room description
+- Verify the animal remains in your inventory
+
+## **Phase 5: Place Animal in Green Box**
+- Ensure you can see the green box in your current observation
+- Use `move ANIMAL_NAME to green box` to place the animal in the target container
+- Verify task completion through environment feedback
+- The task is complete when the animal is successfully placed in the green box
+
+## **Critical Reminders:**
+- **Always use exact object names** as they appear in observations (e.g., "dove 1", "butterfly")
+- **The `focus on` action is mandatory** - the task explicitly states "focus on the thing"
+- **All containers are pre-opened** - you can directly interact with contents without using `open`
+- **If you receive an error feedback:
+    - Double-check object identifiers match observation exactly
+    - Verify you are in the correct room
+    - Ensure the object is in your inventory before attempting to move it
+- **Task completion is confirmed ONLY by environment feedback**, not by your reasoning
+- **Base each action on actual observation feedback**, not assumptions
+
+<EXAMPLE_2_END>
+
+--------------------------------------------------------------------------------
+
+<EXAMPLE_3>
+
+# TASK PROCEDURAL GUIDANCE: Find Plant and Move to Purple Box
+
+Your task is to locate a plant, focus on it to signal intent, and then transport it to the purple box in the workshop. Complete all phases in sequence.
+
+## **Phase 1: LOCATE THE PLANT**
+
+**Objective:** Find the plant in the environment
+
+**Procedure:**
+1. Start by teleporting to the most likely location for a plant:
+   - Use `teleport to greenhouse` (highest probability)
+   - Alternative locations: living room, bedroom, outside
+2. Upon arrival, use `look around` to survey the current room
+3. Examine the observation output to identify if a plant is present
+4. If the plant is found, proceed to Phase 2
+5. **If plant is NOT found:** Teleport to the next probable location and repeat steps 2-3:
+   - `teleport to living room`
+   - `teleport to bedroom`
+   - `teleport to outside`
+   - Continue until plant is located
+
+## **Phase 2: FOCUS ON THE PLANT**
+
+**Objective:** Signal intent on the target object
+
+**Procedure:**
+1. Identify the exact name/identifier of the plant from your observation (e.g., "plant", "plant 1", etc.)
+2. Use the focus command with exact syntax: `focus on plant`
+   - Substitute the actual identifier if it includes a number (e.g., `focus on plant 1`)
+3. Verify the system confirms the focus action before proceeding
+
+## **Phase 3: ACQUIRE THE PLANT**
+
+**Objective:** Transfer the plant to your inventory
+
+**Procedure:**
+1. Use the pick up command: `pick up plant`
+   - Use the exact identifier from Phase 2 (e.g., `pick up plant 1` if numbered)
+2. Confirm the plant is now in your inventory through observation feedback
+3. Verify the plant is no longer visible in the room description
+
+## **Phase 4: TRANSPORT TO WORKSHOP**
+
+**Objective:** Navigate to the workshop with the plant
+
+**Procedure:**
+1. Use the teleport command: `teleport to workshop`
+2. Upon arrival, use `look around` to confirm you are in the workshop
+3. Identify the purple box in the room description
+4. Verify the plant is still in your inventory
+
+## **Phase 5: PLACE PLANT IN PURPLE BOX**
+
+**Objective:** Complete the task by placing the plant in the target container
+
+**Procedure:**
+1. Use the move command with exact syntax: `move plant to purple box`
+   - If the purple box has a number identifier, use it (e.g., `move plant to purple box 1`)
+2. Verify through environment feedback that the plant is now inside the purple box
+3. Confirm the plant is no longer in your inventory
+
+## **CRITICAL RULES & ERROR HANDLING:**
+
+- **Invalid Action Response:** If you receive an error message, review the observation for the exact object identifier and retry with corrected syntax.
+- **Object Not Found:** If the plant is not in any of the primary locations (greenhouse, living room, bedroom, outside), systematically check remaining rooms: kitchen, foundry, bathroom, art studio, hallway.
+- **Exact Naming:** Always use the precise object names as they appear in observations, including any numbers (e.g., "plant 1" not "plant").
+- **Phase Order:** You MUST complete phases in sequence. Do not skip the "focus on" action in Phase 2.
+- **Completion Verification:** Task success is determined ONLY by environment feedback confirming the plant is in the purple box, not by your reasoning.
+
+<EXAMPLE_3_END>
